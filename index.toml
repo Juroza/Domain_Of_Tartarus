@@ -617,6 +617,10 @@ file = "config/boss_checklist/boss_checklist-server.json"
 hash = "436e4e233be306a58f29d49e4f6cfb168719123a6f1f5f3e149c537d57802eec"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "fb76fe0941ba3c10a0a5623bb9f71b648fcf161a299dedc2ef9dbc03f9ed846f"
+
+[[files]]
 file = "config/canary.properties"
 hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
@@ -1888,6 +1892,11 @@ metafile = true
 [[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "98776d93b938c8fc4ffa5818b8e4b8686698feec9fef1e60235d3a368a2cbfa9"
 metafile = true
 
 [[files]]

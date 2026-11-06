@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Domain of Tartarus",
+      "address": "185.36.205.4:19805",
+      "forced": true
+    }
+  ]
+}
