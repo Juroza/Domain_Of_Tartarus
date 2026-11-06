@@ -1,6 +1,0 @@
-
-[general]
-	#Time in minutes between each automatic ClearLag
-	#Range: 1 ~ 1440
-	clearlag_interval = 30
-
