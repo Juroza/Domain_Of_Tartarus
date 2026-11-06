@@ -1,0 +1,13 @@
+name = "wonderland.jar"
+filename = "the_wonderland-3.0.3-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IXZPFrP2/versions/Xw8Geo0z/the_wonderland-3.0.3-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "269c591e42804c2bd3d8d2229315c1b0d55fc20ffd2e0bf387cf29e5598b6ab4aff80c00194407538fedfce0f955d8ad8aab9e5a3082bea2ac9bb78c48c2e3e2"
+
+[update]
+[update.modrinth]
+mod-id = "IXZPFrP2"
+version = "Xw8Geo0z"

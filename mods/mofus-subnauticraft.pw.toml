@@ -1,13 +1,13 @@
-name = "Mofu's Subnauticraft"
+name = "Mofu's subnauticraft"
 filename = "subnauticraft-1.0.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "87b1cf2a53c86e23df54ae46d3352c26818e8699"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Qi8dWtRK/versions/FVHMxMIg/subnauticraft-1.0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "cf1f1938fa0065ea6fbf2040294779c64b221b8108400db9875d41ed5cf073bca71b6f9f653fb7946d4c1e3423202f7659dbec3f2d554b96a78d5348cf7f6ab6"
 
 [update]
-[update.curseforge]
-file-id = 8519640
-project-id = 1538403
+[update.modrinth]
+mod-id = "Qi8dWtRK"
+version = "FVHMxMIg"

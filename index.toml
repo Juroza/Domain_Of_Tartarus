@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "ca193ba9a415f3e5ac985180e652e805f41e1340f4eec05fbfb37c8db20efa45"
+hash = "313095ac5c8f6d7d37da04bb865c034b276d856c5374208876a1d107040b0b4f"
 metafile = true
 
 [[files]]
@@ -1900,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "79f4d674fc199e86c962035ccbe89c9d5ba8c2cc087908b60a0cb4e2c3aa90d2"
+hash = "46d7e45a470ab4280c68c2d435214ee63a1c016c426d889d9deee049c6f39a08"
 metafile = true
 
 [[files]]
@@ -1975,6 +1975,11 @@ metafile = true
 [[files]]
 file = "mods/create-o-plenty.pw.toml"
 hash = "c430ed4de730f554138768eba9a85f3b93eb81c50cf76eb741048c5ea57bed7a"
+metafile = true
+
+[[files]]
+file = "mods/create-protection-pixel.pw.toml"
+hash = "12f5ab270874670ae50db0ca9b8c06174cec3646f8ce9d972b7045427a05e408"
 metafile = true
 
 [[files]]
@@ -2089,6 +2094,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a8ef024a2cbf9641d81eee63a2cf40e3d5d0bffb5f094ff7935257bfa91ba34b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
@@ -2282,11 +2292,6 @@ hash = "6c3571b3d62c673d575e654edab9ab17f70049811e168b4d070e12e5d9fb7b5f"
 metafile = true
 
 [[files]]
-file = "mods/mobbility-addon-irons-spells-n-spellbooks.pw.toml"
-hash = "43bf2748518e8bfcdb5c1a69dd23b18e34d23a22dbe6a15fcf49affdc5539aa2"
-metafile = true
-
-[[files]]
 file = "mods/mobbility.pw.toml"
 hash = "b9258bbaf52788fc38f85be274dfac9a3e64dc6fe4cf6cb04d4c149ce6449513"
 metafile = true
@@ -2303,7 +2308,7 @@ metafile = true
 
 [[files]]
 file = "mods/mofus-subnauticraft.pw.toml"
-hash = "8d9f8dfc2a7fc2a8d46f7f58d6b61b00a552f68dd938fb1d2de399264ff5cb18"
+hash = "4dcee7cf545849c42f93ed285f692f32d254e55d247bfe5db7abc335cc7b9c52"
 metafile = true
 
 [[files]]
@@ -2387,11 +2392,6 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "07ce28c77d2ef8ffcfa8f8a961008b1553354d380cdc2918f2c35527a9ad528c"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
 metafile = true
@@ -2421,11 +2421,6 @@ hash = "f1d0143e260bc43f592ccf681ab487bfa9579198f426c54c2b0013a2dfdfb449"
 metafile = true
 
 [[files]]
-file = "mods/simply-more.pw.toml"
-hash = "1e1c6ce3854bd9cb108dd4f9d31be8ed9da411afc8f0d5f91d110809e5d983c7"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "77659065f31306cb231bd15c2cb02d2412b44aeaa84a6a039624530960b05386"
 metafile = true
@@ -2433,6 +2428,11 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "60c59e7cfc6f8c29f13a674fd227688d76c81655c62c2926c0a3863a9711e597"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "b9074b10d254cc939f7553d33ef9c65db35df15fd7fccb840defc9a40ce887c4"
 metafile = true
 
 [[files]]
@@ -2566,8 +2566,8 @@ hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
-file = "mods/wonderland-jar-real-one.pw.toml"
-hash = "b13182399128f25cb3065871e366d0bde4197591b1332361bdcce130262dfb8c"
+file = "mods/wonderland-jar.pw.toml"
+hash = "47dc91fa441e5960aedfbedfab5c7c74ce845eb52b8d1310937f8f2d939c1fa7"
 metafile = true
 
 [[files]]
