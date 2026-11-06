@@ -645,14 +645,6 @@ file = "config/citadel-common.toml"
 hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
 
 [[files]]
-file = "config/clearlagplus-common.toml"
-hash = "55cb1a848ee0a5669757e96e5f067b77325dd72805bf23df3862eb8325d1f6df"
-
-[[files]]
-file = "config/clearlagplus/excluded-entities.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/combatroll/client.json5"
 hash = "e9714f119c3862a898e53eab1a4ba6220a2194a5bdf0aea86623042d6cbf57e3"
 
