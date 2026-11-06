@@ -1,0 +1,13 @@
+name = "Boss Checklist - Saint's Dragons Compatibility"
+filename = "Boss Checklist - Saint's Dragons Compatibility 1.20.1 1.0.0 Forge  NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "579ef29ce8666c0ac0cfadf4a740a08664c15b97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8706652
+project-id = 1663674

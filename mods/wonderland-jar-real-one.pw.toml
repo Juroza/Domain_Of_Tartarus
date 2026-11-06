@@ -1,0 +1,13 @@
+name = "wonderland.jar real one"
+filename = "geckolib-forge-1.20.1-4.8.4 (1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50e1407869ef0e909e3bdda9328b8bd7db03fdc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8552699
+project-id = 1634457

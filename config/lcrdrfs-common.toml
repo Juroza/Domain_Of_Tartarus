@@ -1,0 +1,48 @@
+
+#Jet Pack Spider Settings
+["Jet Pack Spider Settings"]
+	#Enable Creepssile Explosions
+	creepssiles_explode = true
+	#Non-Explosion Damage caused by Creepssile
+	#Range: 1.0 ~ 1.7976931348623157E308
+	creepssile_damage = 6.0
+
+#Player Weapon Settings
+["Player Weapon Settings"]
+	#Damage caused by Player Laser Blaster
+	#Range: 1.0 ~ 1.7976931348623157E308
+	laser_damage = 10.0
+	#Player Laser Fire Burn Time in Seconds
+	#Range: > 0
+	player_laser_fire_time = 10
+	#Non-Explosion Damage caused by Player Creepssile
+	#Range: 1.0 ~ 1.7976931348623157E308
+	player_creepssile_damage = 10.0
+	#Enable Player Creepssile Explosions
+	player_creepssiles_explode = true
+	#Enable Player Laser Fire Damage
+	player_laser_fire = true
+
+#Laser Creeper Settings
+["Laser Creeper Settings"]
+	#Enable Creeper Laser Fire Damage
+	creeper_laser_fire = true
+	#Creeper Laser Fire Burn Time in Seconds
+	#Range: > 0
+	creeper_laser_fire_time = 10
+	#Damage caused by Creeper Laser Blaster
+	#Range: 1.0 ~ 1.7976931348623157E308
+	laser_damage = 4.0
+
+#Invasion Spawn Delay Settings
+["Invasion Spawn Delay Settings"]
+	#Delay Time in Days Before Jet Pack Spiders Spawn
+	#Range: > 0
+	spider_delay_days = 1
+	#Delay Time in Days Before T-R3X Riders Spawn
+	#Range: > 0
+	dino_rider_delay_days = 1
+	#Delay Time in Days Before Laser Creepers Spawn
+	#Range: > 0
+	creeper_delay_days = 1
+

@@ -1,0 +1,27 @@
+{
+  "balancing": {
+    "tables": {
+      "pandorasbox:chests/pandora_inject_common": [
+        "minecraft:chests/ancient_city",
+        "minecraft:chests/bastion_treasure",
+        "minecraft:chests/end_city_treasure"
+      ],
+      "pandorasbox:chests/pandora_inject": [
+        "minecraft:chests/abandoned_mineshaft",
+        "minecraft:chests/jungle_temple",
+        "minecraft:chests/simple_dungeon",
+        "minecraft:chests/desert_pyramid",
+        "minecraft:chests/stronghold_corridor",
+        "minecraft:chests/stronghold_crossing",
+        "minecraft:chests/stronghold_library",
+        "minecraft:chests/bastion_bridge",
+        "minecraft:chests/bastion_hoglin_stable",
+        "minecraft:chests/bastion_other"
+      ]
+    },
+    "box_longevity": 0.2,
+    "box_intensity": 1.0,
+    "good_effect_chance": 0.49,
+    "max_effects_per_box": 3
+  }
+}

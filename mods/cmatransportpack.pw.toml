@@ -1,0 +1,13 @@
+name = "C.M.A [Immersive Vehicles/IV/MTS] Citizens Military Aviation Trasport Pack"
+filename = "C.M.A_Transport_Pack _v.3.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6932a371ef667f3698cfc3b38beab47cd42a2d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7855277
+project-id = 794254

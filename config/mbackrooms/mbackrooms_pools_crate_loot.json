@@ -1,0 +1,7317 @@
+[
+  {
+    "item": "aether:agility_cape",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:bronze_dungeon_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:cloud_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:flaming_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gold_dungeon_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:golden_feather",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_ore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:gravitite_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:hammer_of_kingbdogz",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:holy_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:invisibility_cloak",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:iron_bubble",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:life_shard",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "aether:lightning_knife",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:lightning_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:neptune_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:neptune_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:neptune_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:neptune_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:neptune_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:obsidian_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:obsidian_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:obsidian_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:obsidian_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:obsidian_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:phoenix_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:pig_slayer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:regeneration_stone",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:shield_of_repulsion",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:silver_dungeon_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_cape",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:valkyrie_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "aether:vampire_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:candy_cane_hook",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:cave_map",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:desolate_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:dreadbow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:extinction_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:frostmint_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:galena_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:hazmat_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:hazmat_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:hazmat_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:hazmat_mask",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:heavyweight",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:hood_of_darkness",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:nuclear_bomb",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:ortholance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:primitive_club",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:raygun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:resistor_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:sea_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:shot_gum",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:sugar_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexscaves:tectonic_shard",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "alexscaves:totem_of_possession",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:blood_sprayer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:dimensional_carver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:ghostly_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:halo",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:hemolymph_blaster",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:rocky_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:shattered_dimensional_carver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:shield_of_the_deep",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:skreecher_soul",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:soul_heart",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:tarantula_hawk_elytra",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:tendon_whip",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:void_worm_eye",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "alexsmobs:void_worm_mandible",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyss_ascendant",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyss_atomiser",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyssal_annihilator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyssal_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyssal_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyssal_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:abyssal_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:ascendant_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:ascended_torment",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:bane_of_the_darkness",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:black_widow_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:celestial_barrier",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chaos_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_2_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_2_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_2_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_2_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_3_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_3_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_3_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chitin_armour_tier_3_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:chrono_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:core_of_eternal_suffering",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:dagger_of_dissolution",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:entropy_matrix",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:eternal_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:eternal_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:eternal_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:eternal_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:ethereal_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:force_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:formic_fireblaster",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:genesis_rifle",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:hedonic_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:hornet_hailstorm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:hypnotic_hellblaster",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:immortal_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:immortal_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:immortal_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:immortal_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:infernal_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:infernal_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:infernal_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:infernal_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:infinite_torment",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:judgement_blaster",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:juggernaut_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:juggernaut_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:juggernaut_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:juggernaut_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:mantis_machete",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:mantle_of_vitality",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:oblivion_ray",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:singularity_satchel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:singularity_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spacetime_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spacetime_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spacetime_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spacetime_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spear_of_paralysis",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spectral_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spectral_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spectral_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:spectral_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:staff_of_vitality",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:tectonic_tunneler",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:temporal_guardian",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:temporospatial_transmitter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:tormented_wrath",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:umbral_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:umbral_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:umbral_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:umbral_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vengeful_voidseeker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:venom_typhoon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:visionary_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vitality_armour_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vitality_armour_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vitality_armour_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vitality_armour_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:void_spear_item",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vortex_devastator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:vortex_vanguard",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "arphex:warp_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:code_breacher",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:dimensional_suitcase",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:frostcleave",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:hero_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:kaizo_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "bielgg_spells:kaizo_knight_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:kaizo_knight_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:kaizo_knight_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:kaizo_knight_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:mae_command_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:mae_powered_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:neo_body",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:neo_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:proton_slicer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:pure_crystal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_echo",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:relicron_orb",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:roaring_knight_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:roaring_knight_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:roaring_knight_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:roaring_knight_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:roaring_spellbook",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:shada_cleaver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:tainted_spellbook",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:taskontrol_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:thorn_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:tome_of_infinity",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:tome_of_relics",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "bielgg_spells:unstable_spellbook",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:anchor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:ancient_trial_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:dragon_bones_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:dragon_bones_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:dragon_bones_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:dragon_guard_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:ice_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:knight_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:knight_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:knight_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:knight_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:knight_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:kraken_trident",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:large_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:pirate_saber",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:sandworm_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:underworld_arena_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:undying_tentacle",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "block_factorys_bosses:warrior_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:abyssal_egg",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ancient_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:astrape",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:berserker_soul_amulet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:blazing_grips",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:bloom_stone_pauldrons",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:bone_reptile_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:bone_reptile_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:brontes",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:bulwark_of_the_flame",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:burning_ashes",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ceraunus",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:cursed_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:cursium_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:cursium_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:cursium_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:cursium_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:cursium_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:cursium_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:enderite_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:essence_of_the_storm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:final_fractal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:gauntlet_of_bulwark",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:gauntlet_of_guard",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:gauntlet_of_maelstrom",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:ignitium_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_elytra_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:ignitium_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ignitium_upgrade_smithing_template",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:infernal_forge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:lacrima",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:laser_gatling",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:meat_shredder",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:monstrous_helm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:monstrous_horn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:necklace_of_the_desert",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:remnant_skull",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:ring_of_grudged",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:sandstorm_in_a_bottle",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:soul_render",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:the_annihilator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:the_immolator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:the_incinerator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:tidal_claws",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:unbreakable_skull",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:vitality_ankh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:void_assault_shoulder_weapon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:void_core",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:void_forge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:wither_assault_shoulder_weapon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:witherite_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "cataclysm:wrath_of_the_desert",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm:zweiender",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyss_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyssal_warlock_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyssal_warlock_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyssal_warlock_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyssal_warlock_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:abyssal_warlock_mask",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:bloom_stone_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:burning_manuscript",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:codex_of_malice_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:cursium_mage_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:cursium_mage_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:cursium_mage_circlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:cursium_mage_elytra",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:cursium_mage_skirt",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:desert_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:engineers_power_glove",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_greaves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_power_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_power_visors",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_resist_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_resist_visors",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_speed_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:excelsius_speed_visors",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:frozen_tablet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:gauntlet_of_gattling",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:gauntlet_of_power",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_chestplate_elytra",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:ignis_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:leviathans_blessing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:monstrous_flamberge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:murasama_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:pharaoh_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:pharaoh_greaves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:pharaoh_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:pharaoh_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:spirit_sunderer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:the_berserker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:the_combuster",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:the_nightstalker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "cataclysm_spellbooks:void_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "create_jetpack:netherite_jetpack",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:aercloud_necklace",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:blade_of_luck",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:cloud_cape",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:floaty_scarf",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:gravitite_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:skyjade_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:storm_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:storm_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stormforged_smithing_template",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "deep_aether:stratus_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_gloves",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "deep_aether:stratus_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_smithing_template",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:stratus_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "deep_aether:wind_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:blue_rose",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:coyote_a",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:devil_sword_dante_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:devil_sword_sparda_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:ebony",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:ivory",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:kalina_ann_i",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:kalina_ann_ii",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:rebellion_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:red_queen_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "devil_may_cry_weapons_reborn:yamato_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:dragon_elytra",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:dragon_star",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_axe_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_axe_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_boots_dragon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_boots_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_boots_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_bow_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_bow_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_chestplate_dragon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_chestplate_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_chestplate_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_excavator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_excavator_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_excavator_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hammer_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hammer_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_helmet_dragon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_helmet_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_helmet_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hoe_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_hoe_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_leggings_dragon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_leggings_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_leggings_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_breathing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_conduit",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_dolphin",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_exp",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_glowing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_healing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_healing2",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_healing3",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_hero",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_medallion_stepping",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_paxel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_paxel_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_paxel_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_paxel_stars",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_pickaxe_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_pickaxe_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_above",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_acceleration",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_airwalking",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_ascent",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_attraction",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_blaze",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_blink",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_curing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_dismissal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_enderchest",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_explorer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_farmer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_haste",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_husbandry",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_leaping",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_miner",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_phoenix",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_pyro",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_repair",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_return",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_stealth",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_sunshine",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_swiftness",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_teleport",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_traveler",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_vision",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_ring_void",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_shovel_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_shovel_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_clearing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_ensnarement",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_farmer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_harvest",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_nature",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_sniper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_staff_stars",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_sword_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_sword_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_sword_sniper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_sword_traveler",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_tree_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_tree_axe_end",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gobber2:gobber2_tree_axe_nether",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gtbcs_geomancy_plus:bracelet_of_inversion",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gtbcs_geomancy_plus:codex_of_shattered_horizons",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gtbcs_geomancy_plus:measure_of_stone",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gtbcs_geomancy_plus:ring_of_the_resounding_earth",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "gtbcs_geomancy_plus:the_stonecaller",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:divine_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:divine_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:divine_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:divine_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:heavy_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:heavy_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:heavy_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:heavy_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:wither_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:wither_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:wither_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "immersive_armors:wither_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:affinity_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:amethyst_resonance_charm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:ancient_knowledge_fragment",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "irons_spellbooks:artificer_cane",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:blaze_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:blood_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:blood_vial",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:cast_time_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:divine_pearl",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:dragonskin_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:emerald_stoneplate_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:energized_core",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:epic_ink",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "irons_spellbooks:evoker_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:frostward_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:frozen_bone",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:graybeard_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:ice_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:ice_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:infernal_sorcerer_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:invisibility_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:keeper_flamberge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:legendary_ink",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "irons_spellbooks:legionnaire_flamberge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:magehunter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:misery",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:necronomicon_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:netherite_mage_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:netherite_mage_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:netherite_mage_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:netherite_mage_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:netherite_spell_book",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:paladin_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:permafrost_shard",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "irons_spellbooks:plagued_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:plagued_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:plagued_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:plagued_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:poisonward_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:pyrium_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "irons_spellbooks:pyrium_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:spellbreaker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:staff_of_the_nines",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:teleportation_amulet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:timeless_slurry",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:truthseeker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:twilight_gale",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "irons_spellbooks:weapon_parts",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:bagua_mirror",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:elemental_commander_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_guandao",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_pagoda_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_pagoda_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_pagoda_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_pagoda_horse_armor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:jade_pagoda_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:muramasa",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:ritual_orihon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:soul_breaker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:soul_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:soulpiercer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:soulward_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:spirit_crusher",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:taiji_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "iss_magicfromtheeast:yin_yang_core",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:advanced_firearm_blueprint",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:atlantean_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:bubble_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:flamethrower",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:grenade_launcher",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:hollenfire_mk2",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:holy_shotgun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:hypersonic_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:light_machine_gun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:minigun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:rocket_launcher",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:soulhunter_mk2",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:subsonic_rifle",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:supersonic_shotgun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:typhoonee",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "jeg:warden_treasure_bag",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:annihilator_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:annihilator_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:annihilator_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:annihilator_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:atmospheric_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:atom_splitter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:axe_of_lightning",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:blastproof_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:chorus_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:chorus_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:corrupted_soul",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:crystal_of_sandstorm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:dinosaur_bone_club",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:dinosaur_bone_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:ender_hammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:enderitium_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:enderitium_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "legendary_monsters:enderitium_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:eye_crystal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:fiery_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:frostbitten_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:frozen_rune",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:golden_halbert",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:guard_summoner",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:heart_of_tornado",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:knight_summoner",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:knights_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:monstrous_anchor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:mossy_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:mossy_hammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:nature_crystal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:purified_soul",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:reinforced_monstrous_anchor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:resurrected_javelin",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:sand_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:sharp_battle_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:sharp_sai",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:shattered_greatsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:shulker_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:shulker_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:sickle_of_harvest",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:somber_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:somber_key_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:soul_great_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:spiky_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:spiky_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:swinging_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:the_great_frost",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:the_tesseract",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:totem_of_moss",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:void_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:void_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:wand_of_clouds",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "legendary_monsters:withered_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:lab_detector",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:portal_detector",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:reinforced_hazmat_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:reinforced_hazmat_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:reinforced_hazmat_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:reinforced_hazmat_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:scuba_hazmat_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:scuba_hazmat_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:scuba_hazmat_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:scuba_hazmat_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelcreaturesdraugr:ebony_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "mebahelcreaturesdraugr:filled_draugr_awakening_soul_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelcreaturesdraugr:golden_claw",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelcreaturesdraugr:stalhrim",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelcreaturesdraugr:stalhrim_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelelderscrollscore:greater_soul_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mebahelelderscrollscore:sublime_soul_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:beacon",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:conduit",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:dragon_egg",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:dragon_head",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:echo_shard",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:elytra",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:enchanted_golden_apple",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:heart_of_the_sea",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:nether_star",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:netherite_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:netherite_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:netherite_upgrade_smithing_template",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "minecraft:recovery_compass",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:totem_of_undying",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "minecraft:trident",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:angel_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:book_of_void",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:crown_squid_endblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:crown_squid_harpoon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:crown_squid_ink_gun",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:damned_soul_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_mace",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:dark_steel_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:end_energy_cube",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:end_warrior_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:end_warrior_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:end_warrior_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:end_warrior_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:enderman_heart",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:endermite_queen_idol",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:endermite_queen_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:eye_guardian_angel_eye",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:eye_guardian_hand",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:forgotten_general_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:forgotten_litch_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:forgotten_nuns_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:g_hsuitcannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:gh_suit_item",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:green_crystal_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:guardian_cannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:litch_pendolum",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:litchsstinger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:luminion_core_item",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:luminion_drill",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_bigfireball",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_boogie_woogie",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_bubblejelly",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_civil_war",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_experience",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_idle_death_gambler",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_lighting",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_litchs_crystal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_magma_curse",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_root_curse",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_thunderbuff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:magic_sheet_vortex",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:mite_queen_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:mite_queen_soul",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:nautilus_sub_item",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:phantom_key",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:thealmightyrooood",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:titanium_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:titanium_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:titanium_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:titanium_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mofus_better_end_:void_core",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:earthrend_gauntlet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:geomancer_beads",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:geomancer_belt",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:geomancer_robe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:geomancer_sandals",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:ice_crystal",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:sculptor_staff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:sol_visage",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:wrought_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mowziesmobs:wrought_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:creeper_shard",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "mutantmonsters:endersoul_hand",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:hulk_hammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:mutant_skeleton_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:mutant_skeleton_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:mutant_skeleton_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mutantmonsters:mutant_skeleton_skull",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:abaia_tail_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:bake_kujira_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:bake_kujira_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:bake_kujira_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:bake_kujira_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:hippocampus_eye",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:kraken_tentacle",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "myths_of_the_sea:leviathan_heart",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "netherdescent:pendorite_horse_armor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "netherdescent:pendorite_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "pandorasbox:pandoras_box",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:anchorpoint_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:anchorpointas_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:bloodprisoner_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:bloodprisoneras_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:breaker_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:breakeras_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:buoyancy_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:buoyancyas_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:cannonarm",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:closed_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:closedas_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:evasionwing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:falconnest_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:falconnestas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:floatshield_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hammer_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hammeras_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hellsnake_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hellsnakeas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hookcannon",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hunter_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:hunteras_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:lancer_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:lanceras_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:linkplate_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:linkplate_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:linkplate_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:linkplate_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:magneticstorm_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:magneticstormas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:maneuveringwing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:nightdemon_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:nightdemonas_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:pioneer_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:pioneeras_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:plague_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:plagueas_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:slingshot_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:slingshotas_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:socks_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:suspjetpack",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:tosaki_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:tosaki_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:tosaki_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:typhoon_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:typhoonas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:wingsofprism_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:wingsofprismas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:workerhornet_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "protection_pixel:workerhornetas_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:ancient_dragonite_fragment",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "saintsdragons:blood_tempest_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:blood_tempest_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:blood_tempest_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:blood_tempest_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:blood_tempest_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:draconian_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:draconian_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:draconian_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:draconian_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:dragonheart_alloy",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "saintsdragons:dragonheart_chunk",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "saintsdragons:dragonlord_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:dragonlord_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:dragonlord_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:dragonlord_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:dragonlord_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:ignivorus_heart",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:worldroot_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:worldroot_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:worldroot_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:worldroot_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "saintsdragons:worldroot_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:amethyst_samurai_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:amethyst_samurai_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:amethyst_samurai_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:amethyst_samurai_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:blue_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:blue_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:blue_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:blue_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:diamond_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:diamond_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:diamond_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:diamond_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gold_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gold_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gold_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gold_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gray_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gray_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gray_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:gray_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:green_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:green_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:green_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:green_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:iron_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:iron_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:iron_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:iron_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:kama_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:kamayari_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:katana_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:kunai_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:nagamaki_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:naginata_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:netherite_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:netherite_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:netherite_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:netherite_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:odachi_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:oni_horn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:oni_mask",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:red_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:red_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:red_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:red_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:sai_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:sculk_samurai_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:sculk_samurai_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:sculk_samurai_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:sculk_samurai_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:shuko_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tetsubo_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tonbukiri_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tyr_samurai_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tyr_samurai_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tyr_samurai_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:tyr_samurai_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:wakizashi_netherite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:white_samurai_boots_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:white_samurai_chestplate_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:white_samurai_helmet_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "samurai_dynasty:white_samurai_leggings_master",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:ascended_idol",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:black_pearl",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:blade_of_the_grotesque",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:boas_fang",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:brassturn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:cindergorge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:culterex",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:darksent",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:deaths_eyrie",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:earthshatter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:exedrill",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:glimmerstep",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_end_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_nether_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:gobber_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:grandfrost",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:great_slither",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:holylight",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:lustrous_moxie",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:matterbane",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_chakram",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_cutlass",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_glaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_greataxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_greathammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_halberd",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_longsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_rapier",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_sai",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_twinblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:mimicry_warglaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:molten_flare",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:myrmedge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:netherite_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:perforiscus",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:revvengine",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_backhand_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_dagger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_deer_horns",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_grandsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_great_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_great_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_khopesh",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_lance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_pernach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:runic_quarterstaff",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:ruptured_idol",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:ruyi_jingu_bang",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:serpentine_valour",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:smouldering_ruin",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:soul_foreseer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:stasis",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:tarnished_idol",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:the_blood_harvester",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:the_vessel_breach",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:tidebreaker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:timekeeper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplymore:vipers_call",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:arcanethyst",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:awakened_lichblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:bloodwake",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:bramblethorn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:brimstone_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:caelestis",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:chompolotl",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:contained_remnant",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:dawnquiver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:decaying_relic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:dormant_relic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:dreadtide",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:dreadwhisper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:emberblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:emberlash",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:empowered_remnant",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:enigma",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:flamewind",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:frostfall",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:gloampiercer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:harbinger",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:hearthflame",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:hiveheart",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:icewhisper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:ionbound_stormscale",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:livyatan",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:magiblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:magiscythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:magispear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:mjolnir",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:molten_edge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherfused_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_chakram",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_cutlass",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_glaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_greataxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_greathammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_halberd",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_longsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_rapier",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_sai",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_twinblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:netherite_warglaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:ribboncleaver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:riftmane",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:righteous_relic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runefused_gem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_chakram",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_cutlass",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_glaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_greataxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_greathammer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_halberd",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_katana",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_longsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_rapier",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_sai",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_scythe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_spear",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_twinblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:runic_warglaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:shadowsting",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:slumbering_lichblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:soulkeeper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:soulpyre",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:soulrender",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:soulstalker",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:soulstealer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:stars_edge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:stormbringer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:storms_edge",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:stormscale",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:sunfire",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:tainted_relic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:tampered_remnant",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:tempest",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:the_devourer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:thunderbrand",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:toxic_longsword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:twisted_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:waking_lichblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:watcher_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:watching_warglaive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:waxweaver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:whisperwind",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:wickpiercer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:wraithfang",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "simplyswords:wraithmaw",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:ascendant_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:behemoth_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:blitzblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:crushing_pauldron_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:decayerite_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:decayerite_upgrade_template",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:deep_alloy_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:forlorn_barrier",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:heart_of_tranquility",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:infernal_crown_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_chunk",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_nugget",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:invulnerite_upgrade_template",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:pristinium_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:quake_boots_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:resisteel_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_hoe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "skarrier_mobs:resisteel_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_shovel",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:resisteel_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:semi_living_flesh_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:semi_living_flesh_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:semi_living_flesh_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:semi_living_flesh_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:serraxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:totem_of_extinction",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:totem_of_freezing",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:totem_of_melding",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:totem_of_repulsion",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:totem_of_seething",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:voracious_blade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "skarrier_mobs:wretched_claymore",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "sophisticatedbackpacks:everlasting_upgrade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "sophisticatedbackpacks:inception_upgrade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "sophisticatedbackpacks:netherite_backpack",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "sophisticatedbackpacks:stack_upgrade_tier_4",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "sophisticatedbackpacks:survival_infinity_upgrade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_leviathan_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_leviathan_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_leviathan_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_leviathan_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_leviathan_egg",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:ghost_throphy",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:reaper_leviathan_egg",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:reaper_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:reaper_throphy",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "subnauticraft:seamothitem",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:alpha_fang",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:alpha_skull",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:black_pearl",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:deep_sea_amulet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:deep_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:ionic_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:leviathan_sensor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "thalassophobia:shock_stab",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:aethers_call",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:ancient_sage_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:arc_heavens",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:arcane_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:astral_bound",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:auroras_grace",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:burnt_relic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:crimson_nexus",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:cursed_stone",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:cyroheart_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:dark_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:dead_eyes_pendant",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:demons_grasp",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:dragons_breath",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:dusk_reaper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:emerald_sage_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:ethereal_hunter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:flame_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:fletchers_talisman",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:frostbite",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:hunter_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:ironclad_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:necro_flame_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:radiance",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:scatter_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:sentinels_wrath",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:sharpshot_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:shulker_blast",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:solar_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:spectral_whisper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:stormbound_signet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:tidal_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:torchbearer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:twin_shadows",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:verdant_vigor",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:verdant_viper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:vitality_weaver",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:webstring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:wind_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "too_many_bows:wind_glove",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:ender_chest_backpack",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:explosion_protect_bauble",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:magic_protect_bauble",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:maid_backpack_big",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:projectile_protect_bauble",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:substitute_jizo",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "touhou_little_maid:ultramarine_orb_elixir",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_hide_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_hide_armor_hat",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_hide_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_hide_armor_robe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_tidecaller",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_tidecaller_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_tidecaller_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:abyssal_tidecaller_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:aetherial_despair_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:archive_of_abyssal_secrets",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:azure_ignition_bracelet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:charged_sands",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:charged_sands_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:charged_sands_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:charged_sands_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:chronicles_of_the_firelord",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:codex_of_the_crushing_depths",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cradle_of_will",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cryostorm_bracelet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithblade_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithblade_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithblade_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithguard_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithguard_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithguard_crown",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:cursed_wraithguard_spectral_wrapping",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:dark_gem_of_the_living_void",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:energy_unbound_necklace",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:excrucis",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:firestorm_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:flames_of_eldritch",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:flames_of_eldritch_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:flames_of_eldritch_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:flames_of_eldritch_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:forlorn_harbinger_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:forlorn_harbinger_hood",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:forlorn_harbinger_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:forlorn_harbinger_robe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:frosted_cryostorm_bracelet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:galenic_polarizer",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:galenic_polarizer_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:galenic_polarizer_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:galenic_polarizer_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:gauntlet_of_extinction",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:gauntlet_of_extinction_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:gauntlet_of_extinction_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:gauntlet_of_extinction_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:guided_currents_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:harbingers_wrath",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:harbingers_wrath_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:harbingers_wrath_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:harbingers_wrath_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:hydrocharge_bracelet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:infernal_devastator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:infernal_devastator_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:infernal_devastator_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:infernal_devastator_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:last_glow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_exoskeleton_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_exoskeleton_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_exoskeleton_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_exoskeleton_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_wraithblade",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_wraithblade_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_wraithblade_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:mechanized_wraithblade_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:pocket_black_hole",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:primordial_crest_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:primordial_crest_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:primordial_crest_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:primordial_crest_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:riptide_sovereign_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:riptide_sovereign_fincloak",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:riptide_sovereign_hat",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:riptide_sovereign_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:salted_depths_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:scourge_of_the_sands",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:scourge_of_the_sands_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:scourge_of_the_sands_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:scourge_of_the_sands_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:shattered_hydrocharge_bracelet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:staff_of_the_storm_empress",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:stellothorn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:stellothorn_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:stellothorn_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:stellothorn_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:tectonic_crest_armor_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:tectonic_crest_armor_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:tectonic_crest_armor_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:tectonic_crest_armor_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_accused_codex",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_diamantic_archive",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_obliterator",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_obliterator_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_obliterator_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:the_obliterator_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:thorns_of_oblivion",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:thorns_of_oblivion_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:thorns_of_oblivion_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:thorns_of_oblivion_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:titanlord_scepter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:titanlord_scepter_retro",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:titanlord_scepter_tectonic",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:tome_of_abyssal_flora",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:trident_of_the_eternal_maelstrom",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:trident_of_the_eternal_maelstrom_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:trident_of_the_eternal_maelstrom_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:trident_of_the_eternal_maelstrom_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:voidstrike_reaper",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:voidstrike_reaper_level_one",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:voidstrike_reaper_level_three",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:voidstrike_reaper_level_two",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:wand_of_final_light",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "traveloptics:withered_excrucis",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:block_and_chain",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:charm_of_keeping_3",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:charm_of_life_2",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:crumble_horn",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:cube_of_annihilation",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:cube_talisman",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:diamond_minotaur_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:ender_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "twilightforest:fiery_blood",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "twilightforest:fiery_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fiery_tears",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:fortification_scepter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:giant_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:giant_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:glass_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:ice_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:ice_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_axe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_block",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "twilightforest:knightmetal_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_ingot",
+    "rarity": 0.0005788712,
+    "unique": false
+  },
+  {
+    "item": "twilightforest:knightmetal_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_ring",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_shield",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:knightmetal_sword",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:lamp_of_cinders",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:lifedrain_scepter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:magic_beans",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:mazebreaker_pickaxe",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:moonworm_queen",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:peacock_feather_fan",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:phantom_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:phantom_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:seeker_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:triple_bow",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:twilight_scepter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:yeti_boots",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:yeti_chestplate",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:yeti_helmet",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:yeti_leggings",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "twilightforest:zombie_scepter",
+    "rarity": 0.0005788712,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:almond_water",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:juice",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:amethyst_shard",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:anvil",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:arrow",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:blaze_rod",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:bone",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:book",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:bread",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:coal",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:coal_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:cooked_beef",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:cooked_chicken",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:cooked_porkchop",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:copper_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:copper_ingot",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:crying_obsidian",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:diamond",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_axe",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:diamond_boots",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_chestplate",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_helmet",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_hoe",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_leggings",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_pickaxe",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_shovel",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:diamond_sword",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:emerald",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:emerald_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:enchanting_table",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:ender_chest",
+    "rarity": 0.0027272727,
+    "unique": true
+  },
+  {
+    "item": "minecraft:ender_pearl",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:experience_bottle",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:firework_rocket",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:glowstone_dust",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:gold_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:gold_ingot",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:golden_apple",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:golden_carrot",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:gunpowder",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:iron_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:iron_ingot",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:lapis_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:lapis_lazuli",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:leather",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:netherite_scrap",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:obsidian",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:quartz",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:redstone",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:redstone_block",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:shulker_shell",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:slime_ball",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:string",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "minecraft:torch",
+    "rarity": 0.0027272727,
+    "unique": false
+  },
+  {
+    "item": "mbackrooms:black_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:blue_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:green_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:music_disc_pools",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:purple_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:red_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "mbackrooms:yellow_chalk",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:black_dye",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:cooked_cod",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:cooked_salmon",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:dried_kelp",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:glass_bottle",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:glow_ink_sac",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:iron_axe",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:iron_nugget",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:iron_pickaxe",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:kelp",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:paper",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:prismarine_shard",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:stone_axe",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:stone_pickaxe",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:stone_shovel",
+    "rarity": 0.0019230769,
+    "unique": true
+  },
+  {
+    "item": "minecraft:white_dye",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:white_wool",
+    "rarity": 0.0019230769,
+    "unique": false
+  },
+  {
+    "item": "minecraft:yellow_dye",
+    "rarity": 0.0019230769,
+    "unique": false
+  }
+]

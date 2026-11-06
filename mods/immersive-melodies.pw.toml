@@ -1,0 +1,13 @@
+name = "Immersive Melodies"
+filename = "immersive_melodies-0.8.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02f8ea1f93fe6603671884fd81ffc94c3c914457"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8842209
+project-id = 904471

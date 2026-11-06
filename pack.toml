@@ -1,0 +1,13 @@
+name = "Domain of Tartarus"
+author = "Jamji_S"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e034e388c08e45332e205348d5b1a4f0e56bfeb050490612f433c0760eca180"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

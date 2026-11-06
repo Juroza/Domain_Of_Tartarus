@@ -1,0 +1,13 @@
+name = "Keep The ResourcePack"
+filename = "KeepTheResourcePack-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e8a5c9146fe6b95169c9d83fae1305ea5a62b14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5178588
+project-id = 502908

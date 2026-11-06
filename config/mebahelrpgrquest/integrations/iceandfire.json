@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "defaults": {
+    "searchRadius": 5000,
+    "minStructureDistance": 128,
+    "spawnMinRadius": 0,
+    "spawnMaxRadius": 12
+  },
+  "contracts": {
+    "fire_dragon": {
+      "enabled": true,
+      "weight": 18,
+      "minStars": 1,
+      "maxStars": 5
+    },
+    "ice_dragon": {
+      "enabled": true,
+      "weight": 18,
+      "minStars": 1,
+      "maxStars": 5
+    },
+    "lightning_dragon": {
+      "enabled": true,
+      "weight": 19,
+      "minStars": 1,
+      "maxStars": 5
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "encountersEnabled": true,
+  "safeLandingsEnabled": true,
+  "dimensions": [
+    "mbackrooms:level_zero",
+    "mbackrooms:level_one",
+    "mbackrooms:level_pools",
+    "mbackrooms:level_two",
+    "mbackrooms:level_stairs"
+  ],
+  "encounterCheckSeconds": 120,
+  "entryGraceSeconds": 120,
+  "mageChance": 0.15,
+  "bossChance": 0.02,
+  "mageCooldownSeconds": 600,
+  "bossCooldownSeconds": 1800,
+  "dimensionBossCooldownSeconds": 1800,
+  "maxNearbyMages": 2,
+  "maxLoadedBossesPerDimension": 1,
+  "spawnMinDistance": 24,
+  "spawnMaxDistance": 48,
+  "spawnAttempts": 32,
+  "announceEncounters": true,
+  "landingRadius": 48,
+  "landingVerticalRange": 128,
+  "landingCandidatesPerTick": 1500,
+  "landingMillisecondsPerTick": 3,
+  "landingTimeoutSeconds": 90,
+  "maxConcurrentLandingSearches": 1,
+  "maxShipWidth": 24,
+  "maxShipHeight": 20,
+  "landingClearance": 0.35,
+  "requireIndoorLanding": true,
+  "ceilingSearchHeight": 32,
+  "indoorYRanges": {
+    "mbackrooms:level_zero": [
+      1,
+      4
+    ],
+    "mbackrooms:level_one": [
+      1,
+      5
+    ],
+    "mbackrooms:level_pools": [
+      64,
+      113
+    ],
+    "mbackrooms:level_two": [
+      1,
+      90
+    ],
+    "mbackrooms:level_stairs": [
+      1,
+      372
+    ]
+  },
+  "playableXZBounds": {
+    "mbackrooms:level_pools": [
+      -8,
+      407,
+      -8,
+      407
+    ],
+    "mbackrooms:level_two": [
+      -96,
+      255,
+      0,
+      31
+    ],
+    "mbackrooms:level_stairs": [
+      0,
+      19,
+      0,
+      12
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Civilian Aviation - Immersive Aircraft - Planes and Helicopters"
+filename = "civilian_aviation-1.0.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17a08314698752e4e440e30452476b522ac5a834"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8137964
+project-id = 1543732

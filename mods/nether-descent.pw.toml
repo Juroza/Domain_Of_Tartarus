@@ -1,0 +1,13 @@
+name = "Nether Descent"
+filename = "Nether-Descent-Forge-1.0.9-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "110752107528924d5288990de2b644d1d16643f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8995076
+project-id = 1357097

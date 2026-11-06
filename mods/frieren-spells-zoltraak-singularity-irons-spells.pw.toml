@@ -1,0 +1,13 @@
+name = "Frieren Spells: Zoltraak & Singularity - Iron's Spells Addon"
+filename = "frierenvoid-1.20.1-forge-1.11.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa1759ff32ab64d62af469db894883fb5987a2b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8883371
+project-id = 1691887

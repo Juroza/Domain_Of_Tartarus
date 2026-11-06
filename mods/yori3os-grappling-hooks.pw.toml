@@ -1,0 +1,13 @@
+name = "Yori3o's Grappling Hooks"
+filename = "yo_hooks-forge-5.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8670292e84d2056d8ac06a0c759047e00dee8241"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8844049
+project-id = 1376009

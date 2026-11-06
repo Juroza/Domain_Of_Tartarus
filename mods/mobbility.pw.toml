@@ -1,0 +1,13 @@
+name = "Mobbility [Core]"
+filename = "mobbility-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbbe47f5d5ca139befcaf9cc76c5bf98533f220b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7810161
+project-id = 1481325

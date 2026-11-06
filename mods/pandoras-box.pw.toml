@@ -1,0 +1,13 @@
+name = "Pandora's Box"
+filename = "pandorasbox-1.20.1-Forge-2.6.3.release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "beadd02eb5a9970746d5e99d2848dff02d79d7e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7659824
+project-id = 222896

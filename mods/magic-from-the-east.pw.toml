@@ -1,0 +1,13 @@
+name = "Magic From The East"
+filename = "iss_magicfromtheeast-1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "309d44c2b0e96947979440ce58da9e246cc10612"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8759081
+project-id = 1224162

@@ -1,0 +1,13 @@
+name = "Better Combat toggle on/off"
+filename = "bctoggle-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d83908228696b310e7796bf9c4bcf1f70ed07188"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7610719
+project-id = 1460035

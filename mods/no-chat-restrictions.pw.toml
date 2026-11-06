@@ -1,0 +1,13 @@
+name = "No Chat Restrictions"
+filename = "NoChatRestrictions-Forge-MC1.20.1-v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a189c024b78b1057f7bab8a64c327ed27a6d186d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7538450
+project-id = 1442925

@@ -1,0 +1,339 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+
+# Wizard settings - spell casting behavior and combat modes
+
+[wizard]
+# Speed modifier for wizard movement (higher = faster)
+speedModifier = 1.0
+# Minimum ticks between attacks/spell casts (20 ticks = 1 second)
+attackIntervalMin = 10
+# Maximum ticks between attacks/spell casts (20 ticks = 1 second)
+attackIntervalMax = 30
+# Minimum spell quality/level (0.0 = level 1, 1.0 = max level)
+spellQualityMin = 0.1
+# Maximum spell quality/level (0.0 = level 1, 1.0 = max level)
+spellQualityMax = 0.4
+# Enable spell cooldowns for humanoid mobs
+# When enabled, mobs must wait for spell cooldown before casting again
+# Only applies to humanoid mobs (zombies, skeletons, pillagers, etc.)
+useCooldowns = true
+# Enable mana consumption for humanoid mobs
+# When enabled, mobs consume mana when casting spells
+# Mobs use MAX_MANA and MANA_REGEN attributes from Iron's Spellbooks
+# This means equipment (armor, curios) can modify mob mana pool and regen rate
+# Only applies to humanoid mobs (zombies, skeletons, pillagers, etc.)
+# Default MAX_MANA: 100, Default MANA_REGEN: 1.0 (20 mana per second)
+useMana = true
+
+# Battle Wizard settings - mobs using both melee weapons and spells
+
+[battleWizard]
+# Enable Battle Wizard mode - allows mobs to use both melee weapons and spells
+# When enabled, mobs with weapons (not staff/spellbook) can cast spells if they have:
+# - Spellbook in curios:spellbook slot, OR
+# - Weapon that grants spells
+# Requires Better Mob Combat for weapon animations
+enabled = true
+# Item tags that identify staves (magical weapons for casting)
+# Items with these tags will NOT trigger Battle Wizard mode
+# Format: \"modid:tag_name\" (without '#' prefix)
+# Examples: \"wizards:wands\", \"irons_spellbooks:staff\", \"paladins:staves\"
+staffTags = [
+    "wizards:wands",
+    "irons_spellbooks:staff",
+    "wizards:staves",
+    "paladins:staves"
+]
+# Item tags that identify spellbooks (magical items for casting)
+# Items with these tags will NOT trigger Battle Wizard mode
+# Format: \"modid:tag_name\" (without '#' prefix)
+# Examples: \"irons_spellbooks:staff\", \"curios:spellbook\"
+spellbookTags = [
+    "irons_spellbooks:staff",
+    "curios:spellbook"
+]
+# Minimum melee bias for Battle Wizard (0.0 - 1.0)
+# At full health, this is the chance to use melee instead of spells
+# Lower = more spell casting, Higher = more melee attacks
+meleeBiasMin = 0.4
+# Maximum melee bias for Battle Wizard (0.0 - 1.0)
+# At low health, this is the chance to use melee instead of spells
+# Lower = more spell casting, Higher = more melee attacks
+meleeBiasMax = 0.8
+# Mana threshold for increased melee attacks (0.0 - 1.0)
+# When mana drops below this percentage, mob will prefer melee
+# Example: 0.3 = when mana < 30%, increase melee bias
+lowManaThreshold = 0.3
+# Melee bias bonus when mana is low (0.0 - 1.0)
+# Added to melee bias when mana < lowManaThreshold
+# Example: 0.3 = +30% chance to use melee when low on mana
+lowManaBonus = 0.3
+# Enable melee attacks on immobilized targets
+# When enabled, Battle Wizards will prefer melee attacks against immobilized enemies
+# Immobilized = rooted, frozen, sleeping, or severe slowness (Slowness IV+)
+meleeImmobilized = true
+# Melee bias when target is immobilized (0.0 - 1.0)
+# Overrides normal melee bias calculation when target cannot move
+# 1.0 = always melee immobilized targets, 0.0 = ignore immobilization
+immobilizedMeleeBias = 0.95
+
+# Wizard Presets - equipment presets for spawned wizard mobs
+
+[wizardPresets]
+# Enable wizard presets system
+# When enabled, mobs can spawn with predefined equipment sets
+# Only applies to mobs without existing equipment
+enabled = true
+
+# Mob presets - list of mob types with their wizard presets
+# Each entry defines a mob type and its possible equipment sets
+
+[[wizardPresets.mobPresets]]
+# Mob entity ID (e.g., 'minecraft:zombie') or comma-separated list for fallback (e.g., 'minecraft:zombie,goety:zombie_servant')
+mobId = "minecraft:zombie"
+# Spawn chance (0.0 to 1.0, e.g., 0.05 = 5% chance)
+spawnChance = 0.05
+
+# List of equipment presets for this mob type
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "pumpkin_mage"
+# Spawn weight (higher = more common)
+weight = 60
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "irons_spellbooks:pumpkin_helmet"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "irons_spellbooks:pumpkin_chestplate"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:pumpkin_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:pumpkin_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "irons_spellbooks:graybeard_staff"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "common"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:rotten_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:fireball\",index:0,level:1},{id:\"irons_spellbooks:chain_creeper\",index:1,level:1},{id:\"irons_spellbooks:burning_dash\",index:2,level:1},{id:\"irons_spellbooks:slow\",index:3,level:2},{id:\"irons_spellbooks:gust\",index:4,level:3},{id:\"irons_spellbooks:raise_dead\",index:5,level:1},{id:\"irons_spellbooks:sacrifice\",index:6,level:1}],maxSpells:8,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "crimson_wizard"
+# Spawn weight (higher = more common)
+weight = 1
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "dacxirons:crimson_wizard_hood"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "dacxirons:crimson_wizard_robe"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "dacxirons:crimson_wizard_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "dacxirons:crimson_wizard_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "dacxirons:sanguine_scepter_staff{\"irons_spellbooks:spell_container\":{data:[{id:\"dacxirons:bloody_arrow\",index:0,level:3,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:1b}}"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = "dungeons_and_combat:bleeding:infinite:1,majruszsdifficulty:bleeding_immunity:infinite:1"
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "rare"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:cursed_doll_spell_book{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:blood_slash\":1,\"irons_spellbooks:blood_step\":1}},\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:ray_of_siphoning\",index:0,level:3},{id:\"irons_spellbooks:blood_step\",index:1,level:1},{id:\"irons_spellbooks:blood_slash\",index:2,level:1},{id:\"irons_spellbooks:blood_needles\",index:3,level:2},{id:\"dacxirons:summon_bloodymancer_cultist\",index:4,level:1},{id:\"dacxirons:crimson_oath\",index:5,level:1},{id:\"irons_spellbooks:acupuncture\",index:6,level:1},{id:\"alexs_caves_spellbooks:conjure_vesper\",index:7,level:1}],maxSpells:10,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets]]
+# Mob entity ID (e.g., 'minecraft:zombie') or comma-separated list for fallback (e.g., 'minecraft:zombie,goety:zombie_servant')
+mobId = "minecraft:skeleton"
+# Spawn chance (0.0 to 1.0, e.g., 0.05 = 5% chance)
+spawnChance = 0.05
+
+# List of equipment presets for this mob type
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "pumpkin_mage"
+# Spawn weight (higher = more common)
+weight = 60
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "irons_spellbooks:pumpkin_helmet"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "irons_spellbooks:pumpkin_chestplate"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:pumpkin_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:pumpkin_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "irons_spellbooks:graybeard_staff"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "common"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:rotten_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:fireball\",index:0,level:1},{id:\"irons_spellbooks:chain_creeper\",index:1,level:1},{id:\"irons_spellbooks:burning_dash\",index:2,level:1},{id:\"irons_spellbooks:slow\",index:3,level:2},{id:\"irons_spellbooks:gust\",index:4,level:3},{id:\"irons_spellbooks:raise_dead\",index:5,level:1},{id:\"irons_spellbooks:sacrifice\",index:6,level:1}],maxSpells:8,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "plague_warrior"
+# Spawn weight (higher = more common)
+weight = 2
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "irons_spellbooks:plagued_helmet"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "irons_spellbooks:plagued_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:plagued_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:plagued_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "simplyswords:toxic_longsword{nether_power:\"no_socket\",runic_power:\"socket_empty\"}"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "rare"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:druidic_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:blight\",index:0,level:4},{id:\"irons_spellbooks:poison_splash\",index:1,level:2},{id:\"irons_spellbooks:spider_aspect\",index:2,level:7},{id:\"irons_spellbooks:firefly_swarm\",index:3,level:2},{id:\"irons_spellbooks:root\",index:4,level:1},{id:\"irons_spellbooks:oakskin\",index:5,level:1}],maxSpells:10,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "shadow_warrior"
+# Spawn weight (higher = more common)
+weight = 2
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "irons_spellbooks:shadowwalker_helmet"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "irons_spellbooks:shadowwalker_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:shadowwalker_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:shadowwalker_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "simplyswords:shadowsting{runic_power:\"no_socket\",nether_power:\"socket_empty\"}"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "rare"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:dragonskin_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"darkdoppelganger:doppel_portal\",index:0,level:1},{id:\"darkdoppelganger:summon_doppel_minion\",index:1,level:1},{id:\"irons_spellbooks:evasion\",index:2,level:2},{id:\"irons_spellbooks:teleport\",index:3,level:1},{id:\"irons_spellbooks:echoing_strikes\",index:4,level:1},{id:\"irons_spellbooks:summon_swords\",index:5,level:2},{id:\"irons_spellbooks:shadow_slash\",index:6,level:5}],maxSpells:12,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets]]
+# Mob entity ID (e.g., 'minecraft:zombie') or comma-separated list for fallback (e.g., 'minecraft:zombie,goety:zombie_servant')
+mobId = "minecraft:stray"
+# Spawn chance (0.0 to 1.0, e.g., 0.05 = 5% chance)
+spawnChance = 0.05
+
+# List of equipment presets for this mob type
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "frost_warrior"
+# Spawn weight (higher = more common)
+weight = 2
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "irons_spellbooks:cryomancer_helmet"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "irons_spellbooks:cryomancer_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:cryomancer_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:cryomancer_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "irons_spellbooks:boreal_blade{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:frostbite\",index:0,level:3,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:1b}}"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "rare"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:ice_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:frost_step\",index:0,level:1},{id:\"irons_spellbooks:ice_block\",index:1,level:2},{id:\"irons_spellbooks:frostwave\",index:2,level:1},{id:\"irons_spellbooks:ice_tomb\",index:3,level:2},{id:\"irons_spellbooks:ice_spikes\",index:4,level:1},{id:\"irons_spellbooks:snowball\",index:5,level:1}],maxSpells:12,mustEquip:1b,spellWheel:1b}}"
+]
+
+[[wizardPresets.mobPresets.presets]]
+# Preset name (for identification)
+name = "frost_mage"
+# Spawn weight (higher = more common)
+weight = 3
+# Head slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_helmet{nbt:data}')
+head = "wizards:frost_robe_head"
+# Chest slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_chestplate{nbt:data}')
+chest = "wizards:frost_robe_chest"
+# Legs slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_leggings{nbt:data}')
+legs = "irons_spellbooks:cryomancer_leggings"
+# Feet slot item with optional NBT (e.g., 'irons_spellbooks:pyromancer_boots{nbt:data}')
+feet = "irons_spellbooks:cryomancer_boots"
+# Main hand item with optional NBT (e.g., 'irons_spellbooks:blood_staff{nbt:data}')
+mainhand = "irons_spellbooks:ice_staff"
+# Off hand item with optional NBT (e.g., 'minecraft:shield{nbt:data}')
+offhand = ""
+# Potion effects to apply (format: 'effect_id:duration:amplifier' or 'effect_id:infinite:amplifier')
+effects = ""
+# Make this mob an Apotheosis/Zenith boss (requires Apotheosis on Forge or Zenith on Fabric)
+isApotheosisBoss = true
+# Boss rarity (common, uncommon, rare, epic, mythic)
+bossRarity = "common"
+
+# Accessory equipment slots (requires Curios/Trinkets/Accessories mod)
+
+[wizardPresets.mobPresets.presets.accessories]
+# List of accessory items in format 'slotType:itemId{nbt}' or 'slotType:index:itemId{nbt}'
+items = [
+    "spellbook:irons_spellbooks:ice_spell_book{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:cone_of_cold\",index:0,level:1},{id:\"irons_spellbooks:frost_step\",index:1,level:1},{id:\"irons_spellbooks:icicle\",index:2,level:1},{id:\"irons_spellbooks:ray_of_frost\",index:3,level:1}],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
+    "charm/spell_book:wizards:frost_spell_book{spell_container:{pool:\"wizards:frost\",spell_ids:[\"wizards:frostbolt\",\"wizards:frost_nova\",\"wizards:frost_shield\",\"wizards:frost_blizzard\"]}}"
+]

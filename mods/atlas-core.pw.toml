@@ -1,0 +1,13 @@
+name = "Atlas Core"
+filename = "atlas-core-forge-1.20.1-1.1.3.release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fab07885550eeea75d2090940786467acf5b2ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8182260
+project-id = 1073789

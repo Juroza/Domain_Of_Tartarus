@@ -1,0 +1,13 @@
+name = "Mobbility [Addon: Iron's Spells 'n Spellbooks]"
+filename = "mobbility-addon-irons-spellbooks-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3711faace04a17aa2b5b06f896393233acf80d7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7810168
+project-id = 1493297

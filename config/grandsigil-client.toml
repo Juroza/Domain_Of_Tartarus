@@ -1,0 +1,15 @@
+
+#What this machine draws
+[visuals]
+	#The radial smear across the screen when the circle fires.
+	#This one copies the framebuffer and runs a shader over it. If another
+	#mod owns the pipeline -- Optifine, Iris, a shaderpack -- turn it off.
+	screenDistortion = true
+	#The white wash over the screen at the moment of firing.
+	screenFlash = true
+	#How finely the circles are tessellated.
+	#2 is what the spell was drawn for; 1 halves the segment counts;
+	#0 draws the rings and the beam and skips the ornament.
+	#Range: 0 ~ 2
+	detail = 2
+

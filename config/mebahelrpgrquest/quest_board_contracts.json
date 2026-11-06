@@ -1,0 +1,158 @@
+{
+  "potionEffectChances": {
+    "common": 0.05,
+    "dangerous": 0.2,
+    "deadly": 0.35,
+    "nightmare": 0.5,
+    "legendary": 0.75
+  },
+  "potionEffectCountRanges": {
+    "common": [
+      1,
+      1
+    ],
+    "dangerous": [
+      1,
+      1
+    ],
+    "deadly": [
+      1,
+      2
+    ],
+    "nightmare": [
+      1,
+      3
+    ],
+    "legendary": [
+      2,
+      4
+    ]
+  },
+  "boardLevelReputationThresholds": [
+    0,
+    50,
+    150,
+    350,
+    700
+  ],
+  "reputationRewards": {
+    "common": 10,
+    "dangerous": 20,
+    "deadly": 40,
+    "nightmare": 80,
+    "legendary": 150,
+    "villageQuest": 15
+  },
+  "difficultyWeightsByBoardLevel": {
+    "1": [
+      80,
+      18,
+      2,
+      1,
+      1
+    ],
+    "2": [
+      55,
+      32,
+      11,
+      2,
+      1
+    ],
+    "3": [
+      25,
+      45,
+      23,
+      6,
+      1
+    ],
+    "4": [
+      10,
+      30,
+      38,
+      18,
+      4
+    ],
+    "5": [
+      5,
+      20,
+      40,
+      27,
+      8
+    ]
+  },
+  "refreshMinutesByBoardLevel": {
+    "1": 15,
+    "2": 13,
+    "3": 11,
+    "4": 9,
+    "5": 8
+  },
+  "groupMobCountBonusByRarity": {
+    "common": 0,
+    "dangerous": 1,
+    "deadly": 2,
+    "nightmare": 4,
+    "legendary": 6
+  },
+  "groupHealthBonusByRarity": {
+    "common": 0.0,
+    "dangerous": 5.0,
+    "deadly": 10.0,
+    "nightmare": 20.0,
+    "legendary": 40.0
+  },
+  "eliteHealthBonusByRarity": {
+    "common": 0.0,
+    "dangerous": 20.0,
+    "deadly": 50.0,
+    "nightmare": 75.0,
+    "legendary": 150.0
+  },
+  "contractTypeWeightsByBoardLevel": {
+    "1": {
+      "hunt": 35,
+      "group": 20,
+      "delivery": 30,
+      "protection": 10,
+      "elite": 15,
+      "incursion": 5,
+      "escort": 15
+    },
+    "2": {
+      "hunt": 30,
+      "group": 25,
+      "delivery": 25,
+      "protection": 10,
+      "elite": 15,
+      "incursion": 8,
+      "escort": 18
+    },
+    "3": {
+      "hunt": 20,
+      "group": 30,
+      "delivery": 20,
+      "protection": 10,
+      "elite": 15,
+      "incursion": 12,
+      "escort": 20
+    },
+    "4": {
+      "hunt": 15,
+      "group": 30,
+      "delivery": 15,
+      "protection": 10,
+      "elite": 20,
+      "incursion": 15,
+      "escort": 22
+    },
+    "5": {
+      "hunt": 10,
+      "group": 30,
+      "delivery": 15,
+      "protection": 10,
+      "elite": 25,
+      "incursion": 18,
+      "escort": 25
+    }
+  }
+}

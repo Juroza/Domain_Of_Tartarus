@@ -1,0 +1,13 @@
+name = "Laser Creeper Robot Dino Riders From Space"
+filename = "LaserCreeperRobotDinoRidersFromSpace-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "124a7674ba11eb9fe206d228717fd1a1debe86ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5065821
+project-id = 229086

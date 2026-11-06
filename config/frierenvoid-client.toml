@@ -1,0 +1,20 @@
+#Automatic local camera sequence for your own spell. V, movement, damage or a menu exits immediately.
+cinematicCamera = true
+#Brief white/violet screen flash at detonation. 0 disables it.
+#Range: 0.0 ~ 1.0
+detonationFlash = 0.85
+#0 low, 1 balanced, 2 cinematic. Geometry only, no gameplay difference.
+#Range: 0 ~ 2
+quality = 2
+#Range: 0.0 ~ 1.0
+soundVolume = 0.8
+#0 disables camera shake.
+#Range: 0.0 ~ 1.0
+cameraShake = 0.35
+screenAtmosphere = true
+#Local scene refraction. Disable if an external shader pack conflicts with framebuffer effects.
+gravitationalLensing = true
+#Zoltraak shader-pack rendering: AUTO detects Iris/Oculus, ON draws the complete original effects after world composition, OFF uses normal world timing.
+#Allowed Values: AUTO, ON, OFF
+zoltraakShaderCompatibility = "AUTO"
+

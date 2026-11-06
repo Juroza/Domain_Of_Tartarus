@@ -1,0 +1,13 @@
+name = "BielGG's Spells Addon"
+filename = "bielgg_spells-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ED55R9vA/versions/HhCVSVtb/bielgg_spells-1.6.jar"
+hash-format = "sha512"
+hash = "aeebdc66c5543c7cca8d454e5b5440c097716b58df5abe1d1a9b92729644366698b0598f3a5d0789344793bfacd2162e005dddb687e08ce5fef310fb1de4b51e"
+
+[update]
+[update.modrinth]
+mod-id = "ED55R9vA"
+version = "HhCVSVtb"

@@ -1,0 +1,13 @@
+name = "Meulti's Backrooms"
+filename = "mbackrooms-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9512e2d49d6361415597bf9db46abea0ff878f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6890920
+project-id = 1089450

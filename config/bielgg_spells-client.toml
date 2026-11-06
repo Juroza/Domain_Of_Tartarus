@@ -1,0 +1,56 @@
+
+[visuals]
+	enableRoaringKnightArmorAfterimage = true
+	showTiredEffects = true
+	#Screen distortion near The Broken Script, while Phase 2 renders, and during attacks. Strongest inside the vortex facing its core.
+	enableBrokenScriptGlitch = true
+	#Flashing highlights during boss glitches. Disable for reduced flashing.
+	enableBrokenScriptFlashes = true
+
+[omegaMusic]
+	#Mute Omega form music for this listener, including your own form and nearby players. Does not mute it for anyone else.
+	muteOmegaMusic = false
+	#weird. You'll regret this choice
+	"Flower man - Side B" = false
+
+[unstableAudio]
+	#Volume of Unstable spell effects on this client. 0 mutes them; 1 is the original volume.
+	#Range: 0.0 ~ 1.0
+	unstableSpellVolume = 1.0
+	#Volume of THE BROKEN SCRIPT effects and boss music on this client. 0 mutes them; 1 is the original volume.
+	#Range: 0.0 ~ 1.0
+	brokenScriptVolume = 1.0
+
+[kaizoKnightFlight]
+	#Enable Kaizo Knight armor flight. Normal jumps still work when disabled.
+	enabled = true
+	#Personal Kaizo Knight flight speed multiplier, adjustable with the flight configuration key.
+	#Range: 0.1 ~ 2.0
+	speedMultiplier = 1.0
+
+[armorAbilityBars]
+	showArmorAbilityBars = true
+	#Range: -4096 ~ 4096
+	armorAbilityBarXOffset = 0
+	#Range: -4096 ~ 4096
+	armorAbilityBarYOffset = 0
+
+[infinity]
+	#All settings below are applied only while Infinity content is enabled and Avaritia is installed.
+	#When Infinity content is disabled or the Avaritia mod is absent the entire Infinity impact pipeline stays dormant.
+	enableInfinityImpacts = true
+	#Master intensity multiplier applied to every Infinity impact.
+	#0.0 disables procedural volumes, distortion and chromatic aberration;
+	#1.0 preserves the default cosmic look;
+	#2.0 cranks every effect to its maximum.
+	#Range: 0.0 ~ 2.0
+	infinityIntensity = 1.0
+	#Impact-driven camera earthquakes. Consecutive impacts add bounded energy; distance reduces the shake.
+	enableInfinityScreenShake = true
+	#Multiplier applied to the camera shake impulses coming from Infinity impacts.
+	#Useful for players who want the cosmic visuals without the camera motion.
+	#Range: 0.0 ~ 2.0
+	infinityScreenShakeScale = 1.0
+	#Legacy setting; Infinity no longer applies screen flashes.
+	enableInfinityFlicker = false
+

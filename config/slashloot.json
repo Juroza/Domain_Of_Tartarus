@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "dimensionBlocklist": [],
+  "lootTableBlocklist": [],
+  "handleUnknownContainers": false,
+  "delegateContainerAnimation": true,
+  "playOpenCloseSounds": true,
+  "cleanupOnBreak": true,
+  "pruneIntervalTicks": 6000,
+  "pruneBatchSize": 256,
+  "debugLogging": false
+}

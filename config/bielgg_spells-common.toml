@@ -1,0 +1,167 @@
+
+["Mae Chestpiece Commands"]
+	#Effect IDs blocked by /chestpiece effect give. Wildcard * is supported.
+	#Maximum 600 seconds and amplifier 4. Particles are always visible.
+	effectBlacklist = ["*:omega*", "*:shaded*", "*:*invulnerab*", "*:*immortal*", "*:*infinity*", "bielgg_spells:goner*", "bielgg_spells:seizure*", "bielgg_spells:heartstop*", "traveloptics:heartstop*", "minecraft:health_boost", "minecraft:absorption", "minecraft:resistance", "minecraft:instant_damage", "born_in_chaos_v1:cursed_mark"]
+	#Entity IDs blocked by /chestpiece summon. Wildcard * is supported.
+	#Only living entities can be summoned. Player and NBT fields are unavailable.
+	summonBlacklist = ["bielgg_spells:mae*", "bielgg_spells:game_master*", "bielgg_spells:shada*", "bielgg_spells:*kaizo*", "witherstormmod:*", "draconicevolution:*guardian*", "minecraft:ender_dragon"]
+	#Additional item IDs blocked by /chestpiece give. Wildcard * is supported.
+	#Spawn eggs, operator blocks, Avaritia items and spell containers are always blocked.
+	itemBlacklist = ["bielgg_spells:proton*", "bielgg_spells:mae_command_chestplate", "bielgg_spells:mae_powered_chestplate", "bielgg_spells:shada_cleaver", "bielgg_spells:dimensional_suitcase", "bielgg_spells:protein_egg", "bielgg_spells:trip_ticket", "bielgg_spells:cosmopedia*", "*:*spell*", "*:*scroll*", "*:*infinite*upgrade*", "*:*infinity*upgrade*", "sophisticatedbackpacks:*stack_upgrade_tier_4*", "sophisticatedstorage:*stack_upgrade_tier_4*"]
+
+[lightweight]
+	#CONTENT: use your individual content options. PATCH_ONLY: disable all addon content options.
+	#Restart the game/server after changing. Multiplayer clients must match the server's content options.
+	#Allowed Values: CONTENT, PATCH_ONLY
+	experienceMode = "CONTENT"
+	#Allows LASER.EXE, Beam of Fear, Dark Fan and Corrupt Projectiles to destroy or replace terrain.
+	#False preserves blocks while keeping spell damage and visuals. Does not enable optional content.
+	shadowUnstableBlockDestruction = true
+	#Master switch for addon content. Patches Only is a preset for these common settings.
+	#Disables content availability, recipes, tags, loot and world generation; compatibility repairs remain active.
+	#Restart the game/server after changing content options.
+	enableContent = true
+	#Power and resistance multiplier for any Iron's Spellbooks school.
+	#School power controls spell damage, range, duration and other spell-specific scaling.
+	#Values below 1.0 weaken a school: 0.5 = 50%, 0.25 = 25%, and 0.0 = no scaling power.
+	#Format: modid:school=multiplier. Examples:
+	#bielgg_spells:shadow=0.5
+	#bielgg_spells:unstable=1.0
+	#irons_spellbooks:fire=1.25
+	schoolMultipliers = ["bielgg_spells:shadow=1.0", "bielgg_spells:unstable=1.0", "bielgg_spells:relicron=1.0", "bielgg_spells:infinity=1.0", "bielgg_spells:tainted=1.0"]
+	#Disables ALL Roaring-related addon content, including Shadow schools, Dark World expansion,
+	#items, blocks, bosses, mobs, structures, recipes and tags. Does not disable the original Roaring mod.
+	#Restart the game/server after changing this option.
+	disableRoaringContent = false
+	#Enables the Mirroring spell and its creative-tab scroll.
+	#Restart the game/server after changing this option.
+	enableMirroringSpell = true
+	#Enables the Tainted school and Cracker's Wither Storm Mod integration content.
+	#This option only has an effect while witherstormmod is installed.
+	#Restart the game/server after changing this option.
+	enableTaintedContent = true
+	#Enables the Blood spell expansion for Vampirism and Vampirism Spells Addon.
+	#This option only has an effect while both optional mods are installed.
+	#Restart the game/server after changing this option.
+	enableVampirismBloodContent = true
+	#Legacy alias for experienceMode. Prefer selecting CONTENT or PATCH_ONLY above.
+	#Fast preset: sets all content and spell options to OFF at the next startup.
+	#Turning it OFF restores your saved content options. Compatibility repairs and numeric settings are preserved.
+	#Restart the game/server to apply this preset.
+	patchOnlyMode = false
+	#Enables The Broken Script, Unstable spells, items, structures and related mechanics.
+	#Restart the game/server after changing this option.
+	enableUnstableContent = true
+	#Makes BielGG's summon spells use Iron's Spells 'n Spellbooks summon/recast logic.
+	#While enabled, a second cast of the same summon spell uses ISS recast behavior instead of creating another group.
+	#The custom simultaneous Summoned Knight, Shade and Relicron summon limits are ignored.
+	#Restart the game/server after changing this option.
+	issSummonLogic = false
+	#Uses Iron's Spellbooks' legacy Wicked Bone Ring in the ThornRing recipe and Frozen Village loot.
+	#When enabled, the current Bone Ring stays available by ID but is hidden from this mod's creative tab and loot.
+	#Restart the game/server after changing this option.
+	useWickedBoneRing = false
+	#Enables the Relicron school and EEEAB's Mobs integration content.
+	#This option only has an effect while eeeabsmobs is installed.
+	#Restart the game/server after changing this option.
+	enableRelicronContent = true
+	#Enables the Infinity school and Avaritia integration content.
+	#This option only has an effect while avaritia is installed.
+	#Restart the game/server after changing this option.
+	enableInfinityContent = true
+	#Individual power multiplier for BielGG's Spells.
+	#This is combined with the spell's school multiplier and Iron's native power_multiplier.
+	#Values below 1.0 nerf one spell without weakening its entire school.
+	#Format: bielgg_spells:spell_name=multiplier.
+	spellMultipliers = ["bielgg_spells:the_final_breath=1.0", "bielgg_spells:death_sorrows=1.0", "bielgg_spells:mirroring=1.0", "bielgg_spells:snowgrave=1.0", "bielgg_spells:rude_buster=1.0", "bielgg_spells:ice_shock=1.0", "bielgg_spells:fire_shock=1.0", "bielgg_spells:pacify=1.0", "bielgg_spells:x_slash=1.0", "bielgg_spells:red_buster=1.0", "bielgg_spells:heal_prayer=1.0", "bielgg_spells:dual_heal=1.0", "bielgg_spells:fluffy_guard=1.0", "bielgg_spells:sleep_mist=1.0", "bielgg_spells:scythemare=1.0", "bielgg_spells:revive_song=1.0", "bielgg_spells:pirouette=1.0", "bielgg_spells:bone_volley=1.0", "bielgg_spells:bone_corridor=1.0", "bielgg_spells:blue_bone_barrage=1.0", "bielgg_spells:gravity_slam=1.0", "bielgg_spells:gaster_blaster=1.0", "bielgg_spells:bad_time=1.0", "bielgg_spells:laser_ex3=1.0", "bielgg_spells:glitch_projectiles=1.0", "bielgg_spells:file_collection=1.0", "bielgg_spells:earth_corruption=1.0", "bielgg_spells:unstable_blink=1.0", "bielgg_spells:unstable_bombardment=1.0", "bielgg_spells:multi_task=1.0"]
+	#Shows BielGG's Spells message when a player joins a world or server.
+	showLoginMessage = true
+
+	[lightweight.unstable]
+		#A fair Multitask: makes Multitask fair by giving the selected spells their cooldowns, mana costs for each and summon control.
+		#Uses normal ISS validation, equipment mana discounts, cooldowns, spell requirements and summon/recast rules.
+		#OFF preserves the original unrestricted parallel casting. Can be changed without restarting.
+		fairMultitask = false
+
+	[lightweight."Dangerous Options"]
+		#Removes casting time and cooldown from Iron's Spellbooks spells for players.
+		issGodMode = false
+		#The Gust spell is now more accurate.
+		"Mysterious Wind" = false
+		#Allows every mob, including bosses and summons, to become Tired and be pacified.
+		anyMobCanBecomeTired = false
+		#Removes the active Mirror Clone limit and Mirroring's summon recast restriction.
+		playerArmy = false
+
+	[lightweight.infinity]
+		#Allows Infinity spells to remove terrain, including singularity block absorption and supernovas.
+		#Disabling this cancels pending terrain destruction. Entity damage and visual effects remain enabled.
+		enableBlockDestruction = true
+		#Allows Singularity Collapse absorption and its supernova to destroy unbreakable blocks.
+		#Only has an effect while enableBlockDestruction is true.
+		singularityDestroysUnbreakableBlocks = true
+
+	[lightweight.spells]
+		#Enables the Bone Volley spell. Restart the game/server after changing this option.
+		enableBoneVolley = true
+		#Enables the IceShock spell. Restart the game/server after changing this option.
+		enableIceShock = true
+		#Enables the Avalanche spell. Restart the game/server after changing this option.
+		enableAvalanche = true
+		#Enables the Flower Nature spells spell. Restart the game/server after changing this option.
+		enableFlowerSpells = true
+		#Enables the Gaster Blaster spell. Restart the game/server after changing this option.
+		enableGasterBlaster = true
+		#Enables the Pirouette spell. Restart the game/server after changing this option.
+		enablePirouette = true
+		#Enables the Gravity Slam spell. Restart the game/server after changing this option.
+		enableGravitySlam = true
+		#Enables the Heal Prayer spell. Restart the game/server after changing this option.
+		enableHealPrayer = true
+		#Enables the Sleep Mist spell. Restart the game/server after changing this option.
+		enableSleepMist = true
+		#Enables the complete Bone & Blaster Evocation spells content package.
+		#Restart the game/server after changing this option.
+		enableBoneAndBlasterEvocationSpells = true
+		#Volume multiplier for the sound played when an enemy becomes Tired.
+		#1.0 preserves the current loudness and 0.0 mutes only this sound.
+		#Range: 0.0 ~ 1.0
+		tiredSoundVolume = 1.0
+		#Enables the FireShock spell. Restart the game/server after changing this option.
+		enableFireShock = true
+		#Enables the Bad Time spell. Restart the game/server after changing this option.
+		enableBadTime = true
+		#Allows eligible hostile mobs below 40% health to become Tired.
+		#Disabling Pacify also disables this mechanic.
+		enableTiredMechanic = true
+		#Enables the Scythemare spell. Restart the game/server after changing this option.
+		enableScythemare = true
+		#Enables the Bone Corridor spell. Restart the game/server after changing this option.
+		enableBoneCorridor = true
+		#Enables the FluffyGuard spell. Restart the game/server after changing this option.
+		enableFluffyGuard = true
+		#Enables the X-Slash spell. Restart the game/server after changing this option.
+		enableXSlash = true
+		#Enables the ReviveSong spell. Restart the game/server after changing this option.
+		enableReviveSong = true
+		#Enables the Dual Heal spell. Restart the game/server after changing this option.
+		enableDualHeal = true
+		#Enables the Snowgrave spell. Restart the game/server after changing this option.
+		enableSnowgrave = true
+		#Enables the SlashRush spell. Restart the game/server after changing this option.
+		enableSlashRush = true
+		#Enables the Pacify spell. Restart the game/server after changing this option.
+		enablePacify = true
+		#Base damage in hearts dealt by every Bone & Blaster Evocation hit.
+		#Individual spellMultipliers are applied afterwards and may reduce a spell to zero.
+		#The final damage can never exceed one heart per hit.
+		#Range: 0.1 ~ 1.0
+		boneAndBlasterDamageHearts = 0.5
+		#Enables the Rude Buster spell. Restart the game/server after changing this option.
+		enableRudeBuster = true
+		#Enables the Blue Bone Barrage spell. Restart the game/server after changing this option.
+		enableBlueBoneBarrage = true
+		#Enables the Red Buster spell. Restart the game/server after changing this option.
+		enableRedBuster = true
+

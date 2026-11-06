@@ -1,0 +1,61 @@
+
+#Every spell in this mod
+[general]
+	#Scales everything these spells deal.
+	#Range: 0.0 ~ 10.0
+	damageMultiplier = 1.0
+	#Hard cap on how many things one casting may hit.
+	#Range: 1 ~ 512
+	maxTargets = 64
+	#A spell book may hold only one Apex Arcana ultimate (Iron's own spells are never
+	#limited). Turn this off to let a book carry as many as it has slots. There is also
+	#a gamerule, /gamerule grandsigilOnePerBook, so it can be changed per world in game;
+	#the limit applies only while both this and the gamerule are on.
+	onePerBook = true
+
+#Grand Sigil
+[sigil]
+	#How long the ritual takes, from the circle being drawn to the
+	#column landing. The twelve runes light across the first five
+	#sevenths of it; the wind-up is the rest.
+	#Range: 3 ~ 120
+	chargeSeconds = 7
+	#Whether the circle holds the creature it was drawn under.
+	#This is the spell: turn it off and the ritual still runs and the
+	#column still lands, but the target can walk out of the ring -- which
+	#ends it, because the circle only ever hits that one thing.
+	binds = true
+	#Whether the column of light leaves a ring of fire when it fires.
+	#Off by default: this is the only thing the spell does to the world.
+	scorchesGround = false
+
+#The Gaze
+[gaze]
+	#Whether being watched stops you moving and casting.
+	#This is the spell: turn it off and the eye still opens and
+	#still burns everything under it, but nothing is held. Worth
+	#turning off on a PvP server that would rather not have a
+	#fourteen-second lockdown in it.
+	holds = true
+
+#Black Coffin
+[coffin]
+	#Whether being shut in the box stops you walking out of it.
+	#This is the spell: the lances are four seconds long and they only
+	#land on something that is still there. Turn it off and the box
+	#still closes and still drives its lances, but anything quick
+	#enough can leave through the wall. Spells are never taken away --
+	#being sealed in a box with four seconds to answer it is a better
+	#fight than being sealed in a box.
+	holds = true
+
+#The nine domains
+[fields]
+	#Whether a domain repaves the ground inside it.
+	#This is what the nine field spells are: the buff and the debuff are
+	#one piece of terrain read from two sides. Turn it off and they still
+	#hold and still favour their caster, but the floor does not change.
+	#Nothing is ever destroyed either way -- every block is written down
+	#with what was under it and put back when the domain ends.
+	pave = true
+

@@ -1,0 +1,17 @@
+{
+  "id": "dragon_bossbar",
+  "enabled": true,
+  "trigger": "bossbar-visible",
+  "target_type": "bossbar",
+  "target": [
+    "minecraft:ender_dragon"
+  ],
+  "dimension": "minecraft:the_end",
+  "sound": "soundscapes:god_shatter_og",
+  "chance": 1.0,
+  "cooldown_seconds": 0,
+  "loop": true,
+  "priority": 2000,
+  "interrupt_current": true,
+  "once": "visit"
+}

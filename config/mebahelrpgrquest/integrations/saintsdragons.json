@@ -1,0 +1,53 @@
+{
+  "enabled": true,
+  "defaults": {
+    "searchRadius": 5000,
+    "minStructureDistance": 128,
+    "spawnMinRadius": 0,
+    "spawnMaxRadius": 12
+  },
+  "contracts": {
+    "varasuchus": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 3,
+      "maxStars": 3
+    },
+    "nulljaw": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 3,
+      "maxStars": 3
+    },
+    "atroxiia": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 3,
+      "maxStars": 4
+    },
+    "volitans": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 4,
+      "maxStars": 4
+    },
+    "raevyx": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 4,
+      "maxStars": 5
+    },
+    "draconian_swarm": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 5,
+      "maxStars": 5
+    },
+    "ignivorus": {
+      "enabled": true,
+      "weight": 25,
+      "minStars": 5,
+      "maxStars": 5
+    }
+  }
+}

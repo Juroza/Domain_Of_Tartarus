@@ -1,0 +1,13 @@
+name = "Mofu's Subnauticraft"
+filename = "subnauticraft-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87b1cf2a53c86e23df54ae46d3352c26818e8699"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8519640
+project-id = 1538403

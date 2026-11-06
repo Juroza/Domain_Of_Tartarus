@@ -1,0 +1,13 @@
+name = "Epic Structures: Jungle Temples"
+filename = "Epic Jungle Temples v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a93405ca7e625f56cba52f0b36ce358eba512844"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8611815
+project-id = 1600197

@@ -1,0 +1,16 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+# Enable debug logging for spell casting and AI behavior
+# Shows detailed information about mob spell selection and casting
+debugLogging = false
+# Enable all logging (debug, info, warnings, errors)
+# When enabled, all log messages will be shown regardless of other settings
+# Useful for troubleshooting and development
+enableAllLogging = false
+# List of entity IDs to blacklist/whitelist
+# Format: \"namespace:entity_id\" (e.g., \"minecraft:zombie\", \"minecraft:skeleton\")
+# Behavior depends on blacklistAsWhitelist setting
+mobBlacklist = [  ]
+# If true, blacklist acts as whitelist (only listed mobs can use Mobbility features)
+# If false, blacklist acts as blacklist (listed mobs cannot use Mobbility features)
+blacklistAsWhitelist = false

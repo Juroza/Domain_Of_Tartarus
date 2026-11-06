@@ -1,0 +1,13 @@
+name = "Giant Spawn"
+filename = "giantspawn-1.20.1-5.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb7576af518df1d59497585bbad1ecddae30a149"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9265103
+project-id = 347921

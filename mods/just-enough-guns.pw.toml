@@ -1,0 +1,13 @@
+name = "Just Enough Guns"
+filename = "JustEnoughGuns-0.14.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "056118ab84f5463429af75b962c342c5be02bd5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8873359
+project-id = 820727
