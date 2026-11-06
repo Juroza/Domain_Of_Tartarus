@@ -1946,10 +1946,6 @@ hash = "f5da0bd02c69394b819a539587c807f57bc373ea52f9db814c6ffb8f80f5eb73"
 metafile = true
 
 [[files]]
-file = "mods/consumableoptimizer-forge-1.20.1-1.0.1.jar"
-hash = "ed1e5f1adb75bfbaae857dc8c9074f556be33620a4b9289f821a0034f7e3d480"
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "aee69b2371df6a915ddf731db3a84065f05c754b66a18416f55522067103244d"
 metafile = true
@@ -2435,11 +2431,6 @@ metafile = true
 [[files]]
 file = "mods/skarrier-mobs.pw.toml"
 hash = "0d925685b9942dc5b61f47672d42f8593fe6d3b0dab60b603c44c9a1f0fa2229"
-metafile = true
-
-[[files]]
-file = "mods/slashloot.pw.toml"
-hash = "8a67a27b8017cf64a2a70491b5e55a0931c87e5d2dd6608143fc291c07f7e637"
 metafile = true
 
 [[files]]
