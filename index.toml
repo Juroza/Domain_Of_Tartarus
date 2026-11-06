@@ -2558,11 +2558,6 @@ hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
-file = "mods/wonderland-jar.pw.toml"
-hash = "47dc91fa441e5960aedfbedfab5c7c74ce845eb52b8d1310937f8f2d939c1fa7"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
 metafile = true
