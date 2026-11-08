@@ -1990,6 +1990,10 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
+file = "mods/cruor-forge-1.20.1-0.1.5-beta-forge47.4.0.jar"
+hash = "d005b1284581698d67aaa51eb0dbf33bcd133b9cd72d3ec07313e56bcc9625ee"
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "77f479f765b307ff09a3d0b90719bb3b929d59af193d1ed746dab513fe14f2c5"
 metafile = true
@@ -2161,11 +2165,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "e2337a3930d3dfb07c051ff0000b2ebd8d4638e17f091b7ad2c786bf0b25d095"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "49e037dfb8fbe451ebea25703f5deae08d3b748a2bb37970f4bfc1bcad84333b"
 metafile = true
 
 [[files]]
@@ -2394,6 +2393,14 @@ hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
 metafile = true
 
 [[files]]
+file = "mods/ragdollified-forge-1.20.1-1.2.2.jar"
+hash = "8ae7bd251883e559f96283ec2b2dcff7b457ee2573d7404fe3df17a648b7c657"
+
+[[files]]
+file = "mods/ragdollifiedamp-forge-1.20.1-0.1.1-BETA.jar"
+hash = "f61c6229f699587930a98a43fca73c9a61a45e97105a596b15e1aa3f99c88cce"
+
+[[files]]
 file = "mods/saints-dragons.pw.toml"
 hash = "ff6d3539b5176ec2b33c3a8f5898102d9784c3ead1a5cbd7f23d508d31f9d0af"
 metafile = true
@@ -2463,6 +2470,10 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
+file = "mods/tartarus-cruor-jeg-bridge-1.5.1.jar"
+hash = "0df5eee24ab7dd6d5880286052e70fa5ba1c0fa4dcd7328ff383ba49857d540e"
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64c3a0ec2e1a1759bda925487c525944d5d3877b73710805024bca6893bab1d3"
 metafile = true
@@ -2525,11 +2536,6 @@ metafile = true
 [[files]]
 file = "mods/vlib.pw.toml"
 hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
-metafile = true
-
-[[files]]
-file = "mods/vs-addition.pw.toml"
-hash = "ff215af89a0d897e7ea62491b4bb38a4d6b3f67c42d9807c3da18679bc57fd1c"
 metafile = true
 
 [[files]]
@@ -2616,6 +2622,10 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "f58f817a74f2b26fca9922263bf3f616deb0ee709212aa944ece857bf47a2d6e"
 metafile = true
+
+[[files]]
+file = "mods/zarith-forge-1.20.1-0.2.0.jar"
+hash = "02b672e064a6d93b4fab241cb4f1cd4314e3f4bb6fdd3e3b13d6c611aa85a443"
 
 [[files]]
 file = "options.txt"
