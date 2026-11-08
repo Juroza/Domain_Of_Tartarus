@@ -2278,11 +2278,6 @@ hash = "a718ddf90993c561efcca72870dd29d23881199cc3114a556d10b68182e23275"
 metafile = true
 
 [[files]]
-file = "mods/mob-dismemberment-fabric-neoforge.pw.toml"
-hash = "e1f5d825c9dd688e77fdf0a7e1c18b63063d6d956f507f7308e1db93eecbe980"
-metafile = true
-
-[[files]]
 file = "mods/mob-player-animator.pw.toml"
 hash = "6c3571b3d62c673d575e654edab9ab17f70049811e168b4d070e12e5d9fb7b5f"
 metafile = true
