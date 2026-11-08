@@ -2470,8 +2470,8 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
-file = "mods/tartarus-cruor-jeg-bridge-1.5.1.jar"
-hash = "0df5eee24ab7dd6d5880286052e70fa5ba1c0fa4dcd7328ff383ba49857d540e"
+file = "mods/tartarus-cruor-jeg-bridge-1.5.2.jar"
+hash = "15a0efd35d1aebad0fad72954b3b96c9cfdd944a5984162cab5c26d556d3f11c"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
