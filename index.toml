@@ -1789,6 +1789,10 @@ file = "mods/NarutoJutsu-1.20.1-1.3.0.jar"
 hash = "6ecd37a576e06495117b28955b1d464f4b8f7a2fa2219ebbfbb56b38ccd34f59"
 
 [[files]]
+file = "mods/Trials-Final.jar"
+hash = "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a"
+
+[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "81f7d3fb35f99bfc644d8072943927a3a1a79bb2dccdad4c9286f1f965c7106c"
 metafile = true
@@ -1979,6 +1983,10 @@ metafile = true
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
+
+[[files]]
+file = "mods/craftform-1.0.1-forge-1.20.1.jar"
+hash = "bd3595518689de094803e956435b4ae7f07b207a3a6d2dfe411cdcc3e77c8dc4"
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
