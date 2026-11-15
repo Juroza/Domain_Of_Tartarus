@@ -1977,6 +1977,11 @@ hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
+file = "mods/craftformers-prime.pw.toml"
+hash = "e70170a25916e9b6fd5ede738d6145ed771fb33e4b1be66b900686fa1f190d5b"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
@@ -2203,6 +2208,11 @@ hash = "86d93e7e3a060d4db12781a5d2de86082d277216fad204e85f8368b2413284cc"
 metafile = true
 
 [[files]]
+file = "mods/kelvin-vs.pw.toml"
+hash = "2e044c5679d9c5e9112b8567069f6c8bd180d32743067c96348ffcda6d66b964"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
@@ -2413,10 +2423,6 @@ hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
 metafile = true
 
 [[files]]
-file = "mods/ragdollified-forge-1.20.1-1.2.2-TARDIS-SAFE-JBullet.jar"
-hash = "09afc56a4f69bb6e408fb24cb17c03eac7f681df56596deb8480df04776af3c2"
-
-[[files]]
 file = "mods/ragdollified-forge-1.20.1-1.2.2.jar"
 hash = "8ae7bd251883e559f96283ec2b2dcff7b457ee2573d7404fe3df17a648b7c657"
 
@@ -2546,6 +2552,11 @@ hash = "95b0993af1e462a164a31c4e0f92c6b01c0bbc397db54dba87a3d97e5b424692"
 metafile = true
 
 [[files]]
+file = "mods/trials-chambers-reuploaded.pw.toml"
+hash = "60dcc12f1431441ab11d1c431b69e73cc2332fd64fd28a914dc88d0ef81c86b6"
+metafile = true
+
+[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
@@ -2667,6 +2678,11 @@ metafile = true
 [[files]]
 file = "mods/zarith-forge-1.20.1-0.2.0.jar"
 hash = "02b672e064a6d93b4fab241cb4f1cd4314e3f4bb6fdd3e3b13d6c611aa85a443"
+
+[[files]]
+file = "mods/zps.pw.toml"
+hash = "2b8429e49522b2ce03d9794b560e63075cf23d6dcae3b5e2a740e14a2c1f3998"
+metafile = true
 
 [[files]]
 file = "options.txt"
