@@ -1927,6 +1927,10 @@ hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
+file = "mods/cfp-forge-1.20.1-0.5.9.1.jar"
+hash = "b977826b7317e5508a7e6b582fb1354bbf32de1755fe85287dd3b86e06f65256"
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "ef08de66a0bd700968800253c3d35293721ce05d4a221bed7450073e26816fda"
 metafile = true
@@ -1974,11 +1978,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
-metafile = true
-
-[[files]]
-file = "mods/craftformers-prime.pw.toml"
-hash = "e70170a25916e9b6fd5ede738d6145ed771fb33e4b1be66b900686fa1f190d5b"
 metafile = true
 
 [[files]]
