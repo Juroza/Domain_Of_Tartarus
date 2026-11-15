@@ -2123,6 +2123,10 @@ hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
+file = "mods/genesis-1.20.1-0.7.3.jar"
+hash = "95c4ff0aef378ff2716ae9fd79fb7e475be15fdc4416c5258a9f81431bd95cbf"
+
+[[files]]
 file = "mods/giant-spawn.pw.toml"
 hash = "d0e8566e7c7675a4613515318a0064f219046c6a4e5a27e94edc968a126f5a03"
 metafile = true
@@ -2207,9 +2211,8 @@ hash = "86d93e7e3a060d4db12781a5d2de86082d277216fad204e85f8368b2413284cc"
 metafile = true
 
 [[files]]
-file = "mods/kelvin-vs.pw.toml"
-hash = "2e044c5679d9c5e9112b8567069f6c8bd180d32743067c96348ffcda6d66b964"
-metafile = true
+file = "mods/kelvin-1.20.1-0.5.2.jar"
+hash = "1f70e4ada1f35d86d4e6000ad6908596865ddf471204c87e2fe0d8859f31e926"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -2679,9 +2682,8 @@ file = "mods/zarith-forge-1.20.1-0.2.0.jar"
 hash = "02b672e064a6d93b4fab241cb4f1cd4314e3f4bb6fdd3e3b13d6c611aa85a443"
 
 [[files]]
-file = "mods/zps.pw.toml"
-hash = "2b8429e49522b2ce03d9794b560e63075cf23d6dcae3b5e2a740e14a2c1f3998"
-metafile = true
+file = "mods/zps-1.20.1-2.7.0.jar"
+hash = "b68ac5aa6f24bfbe84f0ca0727072fd22a0cbfc719f07afedda23335f61689e0"
 
 [[files]]
 file = "options.txt"
