@@ -1781,6 +1781,10 @@ file = "mods/.connector/mebahels-api-1.1.5-fabric-1.20.1_mapped_srg_1.20.1.jar.i
 hash = "5d748e11dcf4a23864d69e907b5afcdac8d041b1e49fb14e587f93e3971baa1b"
 
 [[files]]
+file = "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+hash = "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035"
+
+[[files]]
 file = "mods/NarutoJutsu-1.20.1-1.3.0.jar"
 hash = "6ecd37a576e06495117b28955b1d464f4b8f7a2fa2219ebbfbb56b38ccd34f59"
 
@@ -2156,6 +2160,11 @@ hash = "34e51f2a23e7cf51036e52d9602b4ac547b1c92a8fff7ac88d44f2168a863a4e"
 [[files]]
 file = "mods/i-wanna-skate.pw.toml"
 hash = "d2c5bef579319e19738723011ed628dc412fbac086b0be452c434ae82d355821"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
 metafile = true
 
 [[files]]
