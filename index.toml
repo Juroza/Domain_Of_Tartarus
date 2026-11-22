@@ -1781,6 +1781,10 @@ file = "mods/.connector/mebahels-api-1.1.5-fabric-1.20.1_mapped_srg_1.20.1.jar.i
 hash = "5d748e11dcf4a23864d69e907b5afcdac8d041b1e49fb14e587f93e3971baa1b"
 
 [[files]]
+file = "mods/Catastrophe-Mod-1.20.1-Forge-2.3.2.jar"
+hash = "15a07f3ccba195b0fcbf69b41c943a5cd7e1328826f124200aa6093a00e48dca"
+
+[[files]]
 file = "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
 hash = "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035"
 
@@ -1924,6 +1928,10 @@ metafile = true
 file = "mods/cataclysmic-combat.pw.toml"
 hash = "f7692f333b2bc91c86aad99bf22ef96fe8212568ff35eaeda55b1d8a1216add3"
 metafile = true
+
+[[files]]
+file = "mods/celestisynth-1.20.1-1.3.4-all.jar"
+hash = "d16e4bda6f2f493364d36026905dfcdaf4f042f12b919fa7c04c6030c09000b7"
 
 [[files]]
 file = "mods/cerbons-api.pw.toml"
@@ -2121,6 +2129,10 @@ hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
+file = "mods/furnace_open-0.46.4.jar"
+hash = "e476bf90fc55a80a9d5418cdf3818251953bcbd86a14b03d26baeb280b5d48d2"
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a8ef024a2cbf9641d81eee63a2cf40e3d5d0bffb5f094ff7935257bfa91ba34b"
 metafile = true
@@ -2148,6 +2160,10 @@ metafile = true
 file = "mods/gobber.pw.toml"
 hash = "6e7c398fbe5d96942b5f3fdeecbceea207990b396308dfa3610695f0fe61b99a"
 metafile = true
+
+[[files]]
+file = "mods/godwand-forge-1.20.1-1.6.1.jar"
+hash = "c5807e977bda7e7c97eb39a04b91f0b036bd783664f1956eb42f6cd834288c09"
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
@@ -2207,6 +2223,10 @@ metafile = true
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "e2337a3930d3dfb07c051ff0000b2ebd8d4638e17f091b7ad2c786bf0b25d095"
 metafile = true
+
+[[files]]
+file = "mods/iss_magicfromtheeast-1.20.1-1.1.3.jar"
+hash = "38b3e52d3a9b6fa3d4ea61bad1aef6d7ae22ca8c16fb0518712d96ef54b553bb"
 
 [[files]]
 file = "mods/just-enough-guns.pw.toml"
@@ -2510,6 +2530,14 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
+file = "mods/spmovesets-1.20.1-2.0-SU.jar"
+hash = "dfcb96c435e63963c3e4b526f573bd2fd36b7fdd1996f829cd0e397071fd1d45"
+
+[[files]]
+file = "mods/studious-keybinds-forge-1.20.1-1.0.10-tartarus.2.jar"
+hash = "24c24c8acd556431aefc848c1603998bb87c69599463cfc2098725be40394f51"
+
+[[files]]
 file = "mods/tartarus-cruor-jeg-bridge-1.5.2.jar"
 hash = "15a0efd35d1aebad0fad72954b3b96c9cfdd944a5984162cab5c26d556d3f11c"
 
@@ -2520,6 +2548,10 @@ hash = "700c30d5a56dbcddd3e6b9f48a062c77d81b66fbed0f6501b3f02e1717cc8677"
 [[files]]
 file = "mods/tartarus-jeg-tacz-bridge-1.2.0.jar"
 hash = "f42c5a52110d249c394ef5a805a79ad8ceca62055beff5c3b2b8149a90bfc857"
+
+[[files]]
+file = "mods/tartarus-transformers-1.1.1.jar"
+hash = "44130c780a950b7ede785561130840943e5103ccdf5586896683e31b9c2bc509"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
@@ -2575,6 +2607,14 @@ metafile = true
 file = "mods/twilight-forest-dungeons-villages.pw.toml"
 hash = "60f7d14a75fb39a59925f8ba1d985b4eecfbebc41fd651849c5d94510134737f"
 metafile = true
+
+[[files]]
+file = "mods/ultimate_battle-1.1.1-mc1.20.1.jar"
+hash = "3e1d14fc1f4dbfd9d365d6b8c49b7eb5f5f80ff4a94084d8bf676ed8806fb563"
+
+[[files]]
+file = "mods/upgrader-forge-1.2.1+1.20.1.jar"
+hash = "b145adbf1f47e9d63746eb0f47c503e23acf6a4e627d306b2209c3a657e67a75"
 
 [[files]]
 file = "mods/valkyrien-pirates.pw.toml"
