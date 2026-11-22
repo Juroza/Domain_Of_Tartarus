@@ -2129,8 +2129,8 @@ hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
-file = "mods/furnace_open-0.46.4.jar"
-hash = "e476bf90fc55a80a9d5418cdf3818251953bcbd86a14b03d26baeb280b5d48d2"
+file = "mods/furnace_open-0.46.5.jar"
+hash = "571b00a980c59eef8bfd067f3c0dd85bcbf63309cbc88f74f2556329f2eead4b"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
