@@ -2542,12 +2542,16 @@ file = "mods/tartarus-cruor-jeg-bridge-1.6.0.jar"
 hash = "700c30d5a56dbcddd3e6b9f48a062c77d81b66fbed0f6501b3f02e1717cc8677"
 
 [[files]]
+file = "mods/tartarus-ice-shadow-fix-forge-1.20.1-1.0.0.jar"
+hash = "2c34ac09c93242e825c4c03a2d428aa3cc88f59f988c1e34d611465e4127f2f5"
+
+[[files]]
 file = "mods/tartarus-jeg-tacz-bridge-1.2.0.jar"
 hash = "f42c5a52110d249c394ef5a805a79ad8ceca62055beff5c3b2b8149a90bfc857"
 
 [[files]]
-file = "mods/tartarus-transformers-1.1.1.jar"
-hash = "44130c780a950b7ede785561130840943e5103ccdf5586896683e31b9c2bc509"
+file = "mods/tartarus-transformers-1.1.2.jar"
+hash = "62180f1452c502545b785f4f6e0a7cd7db5f9abec83153b09c5367976d14ae14"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
