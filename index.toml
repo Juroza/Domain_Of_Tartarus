@@ -2542,8 +2542,8 @@ file = "mods/tartarus-cruor-jeg-bridge-1.6.0.jar"
 hash = "700c30d5a56dbcddd3e6b9f48a062c77d81b66fbed0f6501b3f02e1717cc8677"
 
 [[files]]
-file = "mods/tartarus-ice-shadow-fix-forge-1.20.1-1.0.0.jar"
-hash = "2c34ac09c93242e825c4c03a2d428aa3cc88f59f988c1e34d611465e4127f2f5"
+file = "mods/tartarus-ice-shadow-fix-forge-1.20.1-1.0.1.jar"
+hash = "687146c5a6ead7bd1e25642b938a5a527c5216a511b3a45066ce88a3e87d0438"
 
 [[files]]
 file = "mods/tartarus-jeg-tacz-bridge-1.2.0.jar"
