@@ -2046,6 +2046,10 @@ hash = "3e57f9d6a15211f813a5ad2ceb9c7ec000509a43838e58a32cf06d31641ac1f6"
 metafile = true
 
 [[files]]
+file = "mods/dont-punch-my-tacz-v0.5.2-1.20.1-forge.jar"
+hash = "c6a70b5e705f28ce673b227ba534855411d3d1233661f3f0c010e882341f2f11"
+
+[[files]]
 file = "mods/dungeon-now-loading.pw.toml"
 hash = "af097b6f2410753807820ee99aba227115fe51b00638eb22486c9d6e95204381"
 metafile = true
@@ -2129,8 +2133,8 @@ hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
-file = "mods/furnace_open-0.46.5.jar"
-hash = "571b00a980c59eef8bfd067f3c0dd85bcbf63309cbc88f74f2556329f2eead4b"
+file = "mods/furnace_open-0.46.7.jar"
+hash = "c2d235d2cd8d7ddf8df4e887b14194df4496889bcb965af60c13527da19ea8e3"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -2444,6 +2448,14 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
+file = "mods/punchy-3.2b-forge-1.20.1.jar"
+hash = "e634d223e8d6c8ab943d6f27230d77ec7eca402da67472f056576254d2b5add7"
+
+[[files]]
+file = "mods/punchy-epicfight-compat-1.0.0.jar"
+hash = "25975d340c484905cbded0d7538230319a7de05cd7310b742867cff5c39e1bfc"
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
 metafile = true
@@ -2538,6 +2550,10 @@ file = "mods/tacz_sophisticated_backpacks-1.0.0+mc1.20.1-forge.jar"
 hash = "74797d6e89b96d286012702df06e14b1f0cc4b8cceaf9814143faf1d29dd126e"
 
 [[files]]
+file = "mods/tacz_x_guns_lights_addon-2.9.0.jar"
+hash = "5a098fbc68518b2faf030ef95864366ee04afe710237de16587cf7561703842e"
+
+[[files]]
 file = "mods/tartarus-cruor-jeg-bridge-1.5.2.jar"
 hash = "15a0efd35d1aebad0fad72954b3b96c9cfdd944a5984162cab5c26d556d3f11c"
 
@@ -2552,6 +2568,10 @@ hash = "687146c5a6ead7bd1e25642b938a5a527c5216a511b3a45066ce88a3e87d0438"
 [[files]]
 file = "mods/tartarus-jeg-tacz-bridge-1.2.0.jar"
 hash = "f42c5a52110d249c394ef5a805a79ad8ceca62055beff5c3b2b8149a90bfc857"
+
+[[files]]
+file = "mods/tartarus-tacz-backpack-ammo-forge-1.20.1-1.0.0.jar"
+hash = "f61d4c3effa718faf324faf2448f8ac2d84b023b28ae6028da0e7dcdcf8f8f3e"
 
 [[files]]
 file = "mods/tartarus-transformers-1.1.2.jar"
@@ -2617,8 +2637,8 @@ file = "mods/ultimate_battle-1.1.1-mc1.20.1.jar"
 hash = "3e1d14fc1f4dbfd9d365d6b8c49b7eb5f5f80ff4a94084d8bf676ed8806fb563"
 
 [[files]]
-file = "mods/upgrader-forge-1.2.1+1.20.1.jar"
-hash = "b145adbf1f47e9d63746eb0f47c503e23acf6a4e627d306b2209c3a657e67a75"
+file = "mods/upgrader-forge-1.2.1-balanced.1+1.20.1.jar"
+hash = "62510f821b275d3eb11b799c0c962982dd0237353e493d189bfa5a178238df16"
 
 [[files]]
 file = "mods/valkyrien-pirates.pw.toml"
