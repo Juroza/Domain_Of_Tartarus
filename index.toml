@@ -2566,8 +2566,8 @@ file = "mods/tartarus-ice-shadow-fix-forge-1.20.1-1.0.1.jar"
 hash = "687146c5a6ead7bd1e25642b938a5a527c5216a511b3a45066ce88a3e87d0438"
 
 [[files]]
-file = "mods/tartarus-jeg-tacz-bridge-1.2.0.jar"
-hash = "f42c5a52110d249c394ef5a805a79ad8ceca62055beff5c3b2b8149a90bfc857"
+file = "mods/tartarus-jeg-tacz-bridge-1.3.0.jar"
+hash = "e3917525afe5a2247e11e0c680ea0e4de968f7314caff02bc110b37127e44d16"
 
 [[files]]
 file = "mods/tartarus-tacz-backpack-ammo-forge-1.20.1-1.0.0.jar"
