@@ -2534,6 +2534,10 @@ file = "mods/studious-keybinds-forge-1.20.1-1.0.10-tartarus.2.jar"
 hash = "24c24c8acd556431aefc848c1603998bb87c69599463cfc2098725be40394f51"
 
 [[files]]
+file = "mods/tacz_sophisticated_backpacks-1.0.0+mc1.20.1-forge.jar"
+hash = "74797d6e89b96d286012702df06e14b1f0cc4b8cceaf9814143faf1d29dd126e"
+
+[[files]]
 file = "mods/tartarus-cruor-jeg-bridge-1.5.2.jar"
 hash = "15a0efd35d1aebad0fad72954b3b96c9cfdd944a5984162cab5c26d556d3f11c"
 
